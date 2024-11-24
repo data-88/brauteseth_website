@@ -1,5 +1,5 @@
 ---
-title: Film
+title: Film and Video
 description: Upcycle is a pioneering e-waste management and recycling initiative, launching as a pilot project in Hermanus. This innovative program aims to empower municipalities to effectively manage and recycle electronic waste, promoting a cleaner, healthier environment for future generations.
 publishDate: 'Jan 10 2024'
 isFeatured: true

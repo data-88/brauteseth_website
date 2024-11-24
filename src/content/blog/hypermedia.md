@@ -1,6 +1,6 @@
 ---
-title: Front-End Techniques for Optimizing Website Performance
-excerpt: Slow-loading websites can frustrate users, affect search engine rankings, and ultimately lead to loss of traffic and revenue. Front-end optimization is the key to ensuring a fast, responsive, and user-friendly website.
+title: 'Hypermedia'
+excerpt: Networked and neurons.
 publishDate: 'October 12 2023'
 tags:
   - Web

@@ -8,6 +8,9 @@ seo:
     alt: Project preview
 ---
 
+Started as cyber PI
+
+
 ![Project preview](/project-1.jpg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).

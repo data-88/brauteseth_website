@@ -1,5 +1,5 @@
 ---
-title: 'The Rise of Headless CMS: What You Need to Know'
+title: 'Creativity'
 excerpt: In the ever-evolving landscape of content management systems (CMS), a new player has been gaining significant traction - the headless CMS.
 publishDate: 'Nov 14 2023'
 tags:

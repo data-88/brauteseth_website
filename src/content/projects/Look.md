@@ -1,7 +1,7 @@
 ---
-title: Where are we
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: 'Look Models'
+description: Interesting people and personas
+publishDate: 'Jan 2 2025'
 tags:
   - Web
   - Web development
