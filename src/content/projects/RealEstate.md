@@ -15,13 +15,13 @@ seo:
 **Project Overview:**
 EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
 
-## Objectives
+## Dubai
 
 1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
 2. Utilize gamification elements to make sustainable living fun and interactive.
 3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
 
-## Features
+## Bree Street
 
 1. **EcoScore and Challenges:**
 
