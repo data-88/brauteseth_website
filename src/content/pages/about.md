@@ -14,15 +14,16 @@ seo:
 
 Andrew Brauteseth is a visionary leader and entrepreneur who is passionate about driving positive change in South Africa. He is a technocrat who believes in using data, evidence, and expertise to inform decision-making.
 
+## Who
+
 Andrew is a strong advocate for transparency, accountability, and good governance. He believes in empowering people to take control of their own lives and to work together to create positive change.
 
 Andrew's approach is centered around communication, organization, and community-driven initiatives. He believes in harnessing the power of entrepreneurship and innovation to drive growth, create jobs, and improve lives.
 
+## Motivations
+
 Andrew's motivations are rooted in his desire to create a better future for South Africa, one that is more prosperous, more equal, and more just. He is a true original, a man who is driven by his passion for positive change and his commitment to making a difference in the world.
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
-## Ethan Donovan - Web Developer based in Estonia
 
 **Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
