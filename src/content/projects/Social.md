@@ -1,5 +1,5 @@
 ---
-title: 'Social Media'
+title: 'Internet Person'
 description: PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces.
 publishDate: 'Oct 25 2023'
 isFeatured: true

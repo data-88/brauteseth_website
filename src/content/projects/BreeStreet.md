@@ -1,5 +1,5 @@
 ---
-title: 'Public Speaking and Engagements'
+title: 'Bree Street'
 description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
 publishDate: 'Oct 19 2023'
 seo:

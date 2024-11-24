@@ -23,7 +23,7 @@ RoboChef Recipe Assistant is a groundbreaking mobile application that leverages 
 2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
 3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
 
-## Features
+## Guy With Camera
 
 1. **AI-Powered Recipe Recommendations:**
 

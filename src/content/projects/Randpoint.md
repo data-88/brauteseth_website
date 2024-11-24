@@ -1,7 +1,7 @@
 ---
-title: 'Art'
-description: Developing creative ideas for myself and others.
-publishDate: 'Jan 02 2024'
+title: 'Randpoint'
+description: Systems safety company which protects information.
+publishDate: 'Jan 04 2024'
 seo:
   image:
     src: '/project-1.jpg'

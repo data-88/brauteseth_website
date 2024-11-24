@@ -1,5 +1,5 @@
 ---
-title: Norwegians in Africa
+title: Norwegians in South Africa
 description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
 publishDate: 'Dec 28 2023'
 seo:
@@ -20,7 +20,7 @@ FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes
 2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
 3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
 
-## Features
+## Norwegian Settlers Church
 
 1. **Augmented Reality Workouts:**
 

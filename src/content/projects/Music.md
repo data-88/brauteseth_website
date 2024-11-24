@@ -1,6 +1,6 @@
 ---
-title: 'Randpoint'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
+title: 'Music'
+description: Soundscapes and harmonies.
 publishDate: 'Dec 02 2024'
 isFeatured: true
 seo:
