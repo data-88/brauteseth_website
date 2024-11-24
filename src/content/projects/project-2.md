@@ -1,7 +1,7 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
+title: 'Randpoint'
 description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+publishDate: 'Dec 02 2024'
 isFeatured: true
 seo:
   image:

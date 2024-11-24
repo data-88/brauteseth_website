@@ -1,5 +1,5 @@
 ---
-title: FitQuest - AR Fitness Adventure Game
+title: Norwegians in Africa
 description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
 publishDate: 'Dec 28 2023'
 seo:
