@@ -75,24 +75,20 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/andrewbth/'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/andrew_brauteseth/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'YouTube',
+            href: 'https://www.youtube.com/@andrewbrauteseth/'
         }
     ],
     hero: {
@@ -110,7 +106,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Brauteseth Newsletter',
+        title: 'Subscribe to the Brauteseth Newsletter',
         text: 'One update per month. All the thoughts directly in your inbox.',
         formUrl: '#'
     },
