@@ -10,7 +10,16 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-## Gold AK4
+## Gold AK47
+
+## Liberty Themes
+
+
+Pop south africa. 
+
+Disinterested. 
+
+Recycling of internet media. 
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 

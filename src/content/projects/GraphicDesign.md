@@ -1,5 +1,5 @@
 ---
-title: Where is home
+title: Graphic Design
 excerpt: How to patronise clever people
 publishDate: 'Jan 2 2025'
 tags:
