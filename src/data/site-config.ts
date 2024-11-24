@@ -111,7 +111,7 @@ const siteConfig: SiteConfig = {
     },
     subscribe: {
         title: 'Subscribe to Brauteseth Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        text: 'One update per month. All the thoughts directly in your inbox.',
         formUrl: '#'
     },
     postsPerPage: 8,

@@ -1,6 +1,6 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+title: Upcycle - E-Waste Management and Recycling Pilot
+description: Upcycle is a pioneering e-waste management and recycling initiative, launching as a pilot project in Hermanus. This innovative program aims to empower municipalities to effectively manage and recycle electronic waste, promoting a cleaner, healthier environment for future generations.
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
@@ -13,7 +13,10 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+1. Develop a scalable e-waste management system for municipalities.
+2. Provide a user-friendly platform for tracking, collecting, and recycling electronic waste.
+3. Reduce electronic waste in landfills and promote sustainable development.
+
 
 ## Objectives
 
@@ -57,6 +60,6 @@ CryptoTrader Dashboard is a comprehensive web application designed to empower cr
 
 ## Outcome
 
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
+Upcycle has the potential to revolutionize e-waste management in municipalities across South Africa. By providing a scalable, user-friendly platform for tracking, collecting, and recycling electronic waste, Upcycle can help reduce environmental pollution, promote sustainable development, and create a cleaner, healthier environment for future generations.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** This case study is entirely fictional and created for the purpose of holding ideas. 
