@@ -1,12 +1,14 @@
 ---
-title: 'Photography and Cinematography'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
+title: 'Photography'
+description: Lifetime involvement in image capture and processing.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
   image:
     src: '/project-3.jpg'
 ---
+
+## Objectives
 
 ![Project preview](/project-3.jpg)
 
