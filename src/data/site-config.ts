@@ -97,9 +97,9 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Howzit!',
-        text: "I'm **Andrew Brauteseth**, an entreprenuer and creative person in South  for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "Meet **Andrew Brauteseth**, a visionary South African leader and entrepreneur who is pioneering a new era of transparency, accountability, and community-driven innovation.",
         image: {
-            src: '/hero.jpeg',
+            src: '/Andrew_Brauteseth.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
