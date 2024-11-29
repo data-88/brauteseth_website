@@ -1,6 +1,6 @@
 ---
 title: 'Internet People'
-excerpt: In the ever-evolving world of web development, staying on top of the latest trends and tools is essential. One such tool that has gained immense popularity in recent years is Tailwind CSS.
+excerpt: A new type of android
 publishDate: 'Jan 02 2024'
 tags:
   - Web

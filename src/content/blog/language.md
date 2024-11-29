@@ -1,10 +1,10 @@
 ---
 title: 'The Nomenclature of experience'
-excerpt: A website that functions flawlessly across different browsers not only enhances user satisfaction but also broadens its reach.
-publishDate: 'October 7 2023'
+excerpt: Philosophy of naming things
+publishDate: 'November 12 2023'
 tags:
-  - Web
-  - UX
+  - Philosophu
+  - langauge
   - Web development
 seo:
   image:
