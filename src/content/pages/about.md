@@ -2,13 +2,12 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
+  description: Learn more about this human
     src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Andrew in Sudan doing filming
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/Andrew_Brauteseth_Sudan.jpeg)
 
 ## Andrew Brauteseth - Fresh perspectives
 

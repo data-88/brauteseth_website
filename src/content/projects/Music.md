@@ -1,6 +1,6 @@
 ---
 title: 'Music'
-description: Soundscapes and harmonies.
+description: Essential parts
 publishDate: 'Dec 02 2024'
 isFeatured: true
 seo:

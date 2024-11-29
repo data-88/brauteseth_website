@@ -1,6 +1,6 @@
 ---
 title: 'Norwegians in South Africa'
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+description: Telling the Story of the Norwegians Role in South Africa
 publishDate: 'Dec 28 2023'
 seo:
   image:
