@@ -1,12 +1,12 @@
 ---
 title: 'Music'
-description: Essential parts
-publishDate: 'Dec 02 2024'
+description: Essential harmony
+publishDate: 'Jan 02 2024'
 isFeatured: true
 seo:
   image:
     src: '/project-2.jpg'
-    alt: Project preview
+    alt: Music Picture
 ---
 
 ![Project preview](/project-2.jpg)

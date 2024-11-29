@@ -1,5 +1,5 @@
 ---
-title: Revenue Plan for South Africa
+title: Budget and Plan for South Africa
 excerpt: Initial plan for our future finances
 publishDate: 'October 2 2024'
 tags:

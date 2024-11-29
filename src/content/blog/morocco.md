@@ -1,5 +1,5 @@
 ---
-title: 'Far east'
+title: 'Far far east'
 excerpt: Hotish in the Sahel
 publishDate: 'October 10 2024'
 tags:
