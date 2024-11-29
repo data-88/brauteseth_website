@@ -1,9 +1,9 @@
 ---
-title: 'NeuroTypical'
-description: How to patronise clever people
+title: 'South African Pop Culture'
+description: How to see in modern society
 publishDate: 'Jan 2 2025'
 tags:
-  - Web
+  - art
   - Web development
 seo:
   image:
