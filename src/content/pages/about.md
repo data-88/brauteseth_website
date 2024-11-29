@@ -16,6 +16,11 @@ Andrew Brauteseth is a visionary leader and entrepreneur who is passionate about
 
 Norwegians in South Africa
 
+## History
+
+Born in Oslo Beach, Natal in the 80's. The family construction business was busy and the Norwgian church community was strong. The Van Rooyen and the Brauteseth brought us Andrew Jon. 
+
+After attending Port Shepstone High School, Andrew went to Rhodes University to study various subjects including Journalism, Philsophy, Computer Science, IT, Modern Fiction, English and Linguistics. Andrew was a DJ on Rhodes Music Radio with the handle HandyAndy.
 
 ## Who
 

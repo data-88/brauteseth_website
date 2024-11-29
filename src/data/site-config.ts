@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'The Life and Times Of',
+    subtitle: 'The Life and Times Of [This site is only 20% finished]',
     description: 'Man is just hustling in the world',
     image: {
         src: '/andrew.jpg',
@@ -59,15 +59,11 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
-        }
-    ],
-    footerNavLinks: [
-        {
             text: 'About',
             href: '/about'
         },
+    ],
+    footerNavLinks: [
         {
             text: 'Contact',
             href: '/contact'
@@ -75,6 +71,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
+        },
+        {
+            text: 'Tags',
+            href: '/tags'
         }
     ],
     socialLinks: [

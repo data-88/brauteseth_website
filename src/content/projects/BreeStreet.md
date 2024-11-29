@@ -1,6 +1,6 @@
 ---
-title: Where is home
-excerpt: How to patronise clever people
+title: Bree Street
+excerpt: Cape Town's Hippest Street
 publishDate: 'Jan 2 2025'
 tags:
   - Web
