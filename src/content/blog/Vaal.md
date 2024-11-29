@@ -1,7 +1,7 @@
 ---
 title: The Vaal
 excerpt: Factors influencing my understanding of the space
-publishDate: 'Jan 11 2024'
+publishDate: 'Dec 02 2024'
 isFeatured: true
 tags:
   - Travel
