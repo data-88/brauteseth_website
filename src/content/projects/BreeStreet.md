@@ -4,8 +4,8 @@ description: Cape Town's Hippest Street
 publishDate: 'Jan 2 2022'
 isFeatured: true
 tags:
-  - Web
-  - Web development
+  - Real Estate
+  - Meaning making
 seo:
   image:
     src: '/post-2.jpg'

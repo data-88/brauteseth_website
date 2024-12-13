@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'The Life and Times Of [This site is only 20% finished]',
-    description: 'Man is just hustling in the world',
+    subtitle: 'Leader for the time being',
+    description: 'Man is just hustling in the ZA world',
     image: {
         src: '/andrew.jpg',
-        alt: 'Andrew Brauteseth is cool picture'
+        alt: 'Andrew Brauteseth portrait and a very cool picture'
     },
     headerNavLinks: [
         {
@@ -89,6 +89,18 @@ const siteConfig: SiteConfig = {
         {
             text: 'YouTube',
             href: 'https://www.youtube.com/@andrewbrauteseth/'
+        },
+        {
+            text: 'TikTok',
+            href: 'https://tiktok.com/brauteseth/'
+        },
+        {
+            text: 'Pinterest',
+            href: 'https://www.pinterest.com/andrewbrauteseth/'
+        },
+        {
+            text: 'Pinterest',
+            href: 'https://www.pinterest.com/andrewbrauteseth/'
         }
     ],
     hero: {
