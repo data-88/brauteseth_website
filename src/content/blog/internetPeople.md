@@ -1,6 +1,6 @@
 ---
 title: 'Internet People'
-excerpt: A new type of android
+excerpt: The media celebs we connect to
 publishDate: 'Jan 02 2024'
 tags:
   - Web
