@@ -2,6 +2,7 @@
 title: 'Safe South Africa'
 description: The Safe South Africa Strategy aims to provide a comprehensive framework for ensuring safety and security in South Africa. This strategy recognizes the complexities of safety and security challenges in the country and outlines a multi-faceted approach to address these challenges.
 publishDate: 'Dec 24 2024'
+isFeatured: true
 seo:
   image:
     src: '/project-1.jpg'

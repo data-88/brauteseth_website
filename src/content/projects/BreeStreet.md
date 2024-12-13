@@ -2,6 +2,7 @@
 title: Bree Street
 description: Cape Town's Hippest Street
 publishDate: 'Jan 2 2022'
+isFeatured: true
 tags:
   - Web
   - Web development
