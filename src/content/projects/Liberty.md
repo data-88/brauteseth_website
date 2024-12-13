@@ -1,6 +1,6 @@
 ---
-title: 'Liberty Leading the peopel'
-description: How to see in modern society
+title: 'Liberty Leading the people'
+description: Artwork in Pop South African Style
 publishDate: 'Jan 2 2025'
 tags:
   - art
@@ -11,3 +11,4 @@ seo:
     alt: Half open laptop on a desk
 ---
 
+Writing the content here, one day or two. 
