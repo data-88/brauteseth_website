@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'Activist, artist, storyteller & curious mind.',
+    subtitle: 'Activist, artist, storyteller & curious mind. [Website still under development]',
     description: 'Website of a multifaceted South African man',
     image: {
         src: '/andrew.jpg',
@@ -111,8 +111,8 @@ const siteConfig: SiteConfig = {
         title: 'Howzit!',
         text: "Meet **Andrew Brauteseth**, a visionary South African artist and entrepreneur who is pioneering a new era of trends, culture and community-driven innovation.",
         image: {
-            src: '/Andrew_Brauteseth.jpg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/Andrew_Brauteseth_CT.jpg',
+            alt: 'Andrew Brauteseth in Cape Town in front of Table Mountain'
         },
         actions: [
             {

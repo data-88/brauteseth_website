@@ -12,7 +12,7 @@ seo:
 
 ## Andrew Brauteseth - Fresh perspectives
 
-Andrew Brauteseth is a visionary leader and entrepreneur who is passionate about driving positive change in South Africa. He is a technocrat who believes in using data, evidence, and expertise to inform decision-making.
+Andrew Brauteseth is a visionary artist and entrepreneur who is passionate about driving positive change in South Africa. He is a technocrat who believes in using data, evidence, and expertise to inform decision-making.
 
 Norwegians in South Africa
 
