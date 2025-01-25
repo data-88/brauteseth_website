@@ -7,20 +7,23 @@ seo:
     src: '/project-1.jpg'
     alt: Project preview
 ---
+## Recent Work
 
-![Project preview](/project-1.jpg)
+I can't get out of the black and white phase that started in 2015. 
 
-## Gold AK47
+![alt text](/skater-ab-artwork.jpg)
+![alt text](/Ship_AS_FUNCTION.jpg)
+![alt text](/Trek_Andrew_Brauteseth.jpg)
+![alt text](/Port_Shepstone_LightHouse_by_Andrew_Brauteseth.jpg)
 
-## Liberty Themes
+## Philosophy
 
-![alt text](../../../public/Ship_AS_FUNCTION.jpg)
-![alt text](../../../public/skater-ab-artwork.jpg)
-![alt text](../../../public/Trek_Andrew_Brauteseth.jpg)
-![alt text](../../../public/Port_Shepstone_LightHouse_by_Andrew_Brauteseth.jpg)
-[Hypercontemporary Spatial Philosophy - Reflexive Infinitism - Andrew Jon Brauteseth](<../../../public/Hypercontemporary Spatial Philosophy - Reflexive Infinitism - Andrew Jon Brauteseth.pdf>)
+Recent Whitepaper on current ideas under development: 
+
+[Hypercontemporary Spatial Philosophy - Reflexive Infinitism - Andrew Jon Brauteseth](</Hypercontemporary Spatial Philosophy - Reflexive Infinitism - Andrew Jon Brauteseth.pdf>)
 Pop south africa. 
 
-Disinterested. 
+## Key Themes
 
+Disinterested. 
 Recycling of internet media. 
