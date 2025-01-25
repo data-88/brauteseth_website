@@ -8,17 +8,12 @@ seo:
     src: '/Ride-to-Stanford.jpg'
 ---
 
-## Objectives
 
-Available by order or by Clarkes Bookshop in Cape Town. 
-
-https://clarkesbooks.co.za/ 
-
-Andrew Brauteseth, the photographer behind popular photo blog, guywithcamera.co.za, has a printed book featuring a wide scope of his photographic work.
+After the blog was a success, I printed a book featuring a wide scope of writing and photographic work.
 
 The journal is a “zeitgeisticial-gestalt snapshot of Cape Town culture.”
 
-Images focus upon a number of his passions, including Cape Town, digital culture, advertising books, motorbikes and life on the internet.
+Images focus upon a number of passions, including Cape Town, digital culture, advertising books, motorbikes and life on the internet.
 
 
 
@@ -30,4 +25,9 @@ Images focus upon a number of his passions, including Cape Town, digital culture
 ![Advertising Books](/Advertising_Books.jpg)
 ![A is for a stack of books](/A-is-for-a-stack-of-books.jpg)
 
-Buy now with stripe: https://buy.stripe.com/14kbMlclOgnd1C8dQS
+# Buy now with stripe: https://buy.stripe.com/14kbMlclOgnd1C8dQS
+
+
+## Also available by order or by Clarkes Bookshop in Cape Town. 
+
+https://clarkesbooks.co.za/ 
