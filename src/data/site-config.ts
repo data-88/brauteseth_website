@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'Leader for the time being',
-    description: 'Man is just hustling in the ZA world',
+    subtitle: 'Activist, artist, storyteller & curious mind.',
+    description: 'Website of a multifaceted South African man',
     image: {
         src: '/andrew.jpg',
         alt: 'Andrew Brauteseth portrait and a very cool picture'
@@ -99,13 +99,17 @@ const siteConfig: SiteConfig = {
             href: 'https://www.pinterest.com/andrewbrauteseth/'
         },
         {
-            text: 'Pinterest',
-            href: 'https://www.pinterest.com/andrewbrauteseth/'
+            text: 'Facebook',
+            href: 'https://www.facebook.com/brauteseth/'
+        },
+        {
+            text: 'Spotify',
+            href: 'https://open.spotify.com/user/1268976049?si=a9d55802e3d34fd6'
         }
     ],
     hero: {
         title: 'Howzit!',
-        text: "Meet **Andrew Brauteseth**, a visionary South African leader and entrepreneur who is pioneering a new era of transparency, accountability, and community-driven innovation.",
+        text: "Meet **Andrew Brauteseth**, a visionary South African artist and entrepreneur who is pioneering a new era of trends, culture and community-driven innovation.",
         image: {
             src: '/Andrew_Brauteseth.jpg',
             alt: 'A person sitting at a desk in front of a computer'
