@@ -61,3 +61,6 @@ Below is a list of **50 individuals implicated in state capture** in South Afric
 | Linda Mti           | Former Correctional Services Commissioner - Irregular tenders                    | Not specified      |
 | Patrick Gillingham  | Former Bosasa COO - Facilitating corrupt deals                                   | Not specified      |
 | Angelo Agrizzi      | Former Bosasa Executive - Facilitating corrupt deals                             | Not specified      |
+
+
+[Download the CSV](/Zondo_Annextures_Implicated_List_Top_100.csv)
