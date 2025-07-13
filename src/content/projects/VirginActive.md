@@ -4,9 +4,9 @@ excerpt: Long term client
 publishDate: 'Jan 2 2012'
 isFeatured: true
 tags:
-  - writing
-  - creative writing
-  - culture
+  - advertising
+  - campaigns
+  - clients
 seo:
   image:
     src: '/post-14.jpg'
@@ -20,6 +20,13 @@ Some stats from the trip. 11,499 km’s of local flights. 280gb of photo data. A
 A bit of background to the idea. We originally thought this campaign work by creating ‘typical stories’ of why people love to exercise and cast according to those typical gym types. But I pushed for some real stories, and after doing a test shoot in some Cape Town clubs, we found that the real stories have far more emotional impact. You couldn’t make this campaign up by sitting behind a desk. Doing a project like this relies heavily on chance, luck, fate. It’s a huge experiment and we were lucky to tap into the Virgin Active community and find stories that really make you smile. The marketing team at Virgin Active have an amazing way of working with creative talent, and they really create an atmosphere in which you can push yourself to do your best work. I hope you fall in love with the moving people of South Africa as the campaign rolls out. Maybe it even gets you moving.
 
 Some images from the campaign are in a gallery here and the campaign is currently running Nationwide through print, outdoor, in clubs and on the Virgin Active website.
+
+![Virgin Active Lifestyle](/Virgin_Active_Lifestyle__MG_0645.jpg)
+![Virgin Active Lifestyle 2](/Virgin_Active_Lifestyle__MG_0645.jpg)
+![Virgin Active Lifestyle 3](/Virgin_Active_Lifestyle_IMG_1306_color.jpg)
+![Virgin Active Lifestyle 4](/Virgin_Active_Lifestyle_IMG_2352.jpg)
+![Virgin Active Lifestyle 5](/Virgin_Active_Lifestyle_IMG_4014.jpg)
+![Virgin Active Lifestyle 6](/Virgin_Active_Lifestyle_IMG_7359.jpg)
 
 The very talented marketing team at Virgin Active are:
 Head of Marketing: Richard Lamb-Hughes

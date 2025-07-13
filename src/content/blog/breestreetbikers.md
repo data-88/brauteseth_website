@@ -6,9 +6,16 @@ tags:
   - Guide
 seo:
   image:
-    src: '/post-1.jpg'
+    src: '/BreeStreet_0234.jpg'
     alt: A person standing at the window
 ---
+
+![Two bikers riding in the rain](/BreeStreet_0223.jpg)
+![A group of bikers preparing for a ride](/BreeStreet_0224.jpg)
+![A person standing at the window](/BreeStreet_0234.jpg)
+![Bikers gathered outside a building](/BreeStreet_0235.jpg)
+![Motorcycles parked along Bree Street](/BreeStreet_0236.jpg)
+
 
 you’re useless but comfortable. it’s like a childhood memory of being strapped to somebody’s back. I even took a nap. this is what I hear from my girlfriend after I had spent the day fighting a bonneville through a hell of water with her strapped on behind me. our friends dropped phrases like ‘very brave’ as we crept out of bree steet and into a storm from a greek myth. we had been planning this for weeks (down to redrawing the illustrator artwork 4 times) so we weren’t prepared to let the weather kill our party. it’s incredible how a storm can wash away your sense of aesthetics. by the afternoon, when we eventually arrived at groote post after 2 hours in a thunderstorm, we looked like large bin bags floating on wheels. gene was in a green onesie and you from miles away you could spot a straight line of luminousness cutting through swartland. I looked like a welder who had drowned while hanging off the side of the tableview seli1 wreck.
 
