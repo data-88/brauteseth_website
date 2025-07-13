@@ -12,5 +12,7 @@ seo:
 
 Create a clean brand image
 
+![Lisa from Ice Models](/gemma.jpg)
 ![Lisa from Ice Models](/lisa.jpg)
-![Lisa from Ice Models](/morgan.jpg)
+![Morgan Gullen from Ice Models](/morgan.jpg)
+
