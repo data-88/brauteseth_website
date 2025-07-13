@@ -1,6 +1,6 @@
 ---
-title: Reptiles
-excerpt: How to patronise clever people
+title: 'Reptiles'
+excerpt: Fighting a mentality
 publishDate: 'Jan 2 2025'
 tags:
   - Web

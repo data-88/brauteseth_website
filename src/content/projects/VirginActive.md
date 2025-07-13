@@ -1,11 +1,11 @@
 ---
-title: Cape Town Tourism
-excerpt: Life of Cape Town
+title: 'Virgin Active'
+excerpt: Long term client
 publishDate: 'Jan 2 2012'
 isFeatured: true
 tags:
-  - lifestyle
-  - advertising
+  - writing
+  - creative writing
   - culture
 seo:
   image:

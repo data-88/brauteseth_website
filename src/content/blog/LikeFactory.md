@@ -1,5 +1,5 @@
 ---
-title: 'Like Factory'
+title: Like Factory
 excerpt: Philosophy of naming things
 publishDate: 'November 12 2023'
 tags:

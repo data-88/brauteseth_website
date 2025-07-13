@@ -1,5 +1,5 @@
 ---
-title: 'Internet People'
+title: Internet People
 excerpt: The media celebs we connect to
 publishDate: 'Jan 02 2024'
 tags:

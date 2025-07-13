@@ -1,5 +1,5 @@
 ---
-title: 'Hypermedia'
+title: Hypermedia
 excerpt: Networked and neurons.
 publishDate: 'Jul 12 2024'
 tags:

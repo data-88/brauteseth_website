@@ -2,7 +2,6 @@
 title: Kraalkop
 excerpt: Backup plan
 publishDate: 'Jan 2 2024'
-isFeatured: true
 tags:
   - writing
   - creative writing
