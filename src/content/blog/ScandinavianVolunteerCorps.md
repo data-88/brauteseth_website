@@ -1,10 +1,10 @@
 ---
 title: The Scandinavian Volunteers Scandinavian Volunteer Corps (Skandinaviska Kåren) 
-excerpt: How to patronise clever people
+excerpt: War stories
 publishDate: 'Jan 2 2025'
 tags:
-  - Web
-  - Web development
+  - Norwegians
+  - South Africa
 seo:
   image:
     src: '/post-2.jpg'
