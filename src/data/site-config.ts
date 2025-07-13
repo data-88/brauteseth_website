@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'Artist, photographer, writer & curious mind. [Website still under development]',
+    subtitle: 'Activist, artist, storyteller & curious mind. [Website still under development]',
     description: 'Website of a multifaceted South African man',
     image: {
-        src: '/Andrew_Brauteseth_Cape_Town_Studio.jpg',
-        alt: 'Andrew Brauteseth portrait and a very cool picture in his old studio in Cape Town'
+        src: '/andrew.jpg',
+        alt: 'Andrew Brauteseth portrait and a very cool picture'
     },
     headerNavLinks: [
         {
@@ -84,7 +84,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://www.instagram.com/brauteseth_/'
+            href: 'https://www.instagram.com/andrew_brauteseth/'
         },
         {
             text: 'YouTube',
@@ -92,7 +92,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'TikTok',
-            href: 'https://tiktok.com/@brauteseth/'
+            href: 'https://tiktok.com/brauteseth/'
         },
         {
             text: 'Pinterest',
@@ -109,10 +109,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Howzit!',
-        text: "Meet **Andrew Brauteseth**, a South African photographer, artist and writer who is pioneering a new era of trends, culture and community.",
+        text: "Meet **Andrew Brauteseth**, a visionary South African artist and entrepreneur who is pioneering a new era of trends, culture and community-driven innovation.",
         image: {
             src: '/Andrew_Brauteseth_CT.jpg',
-            alt: 'Andrew Brauteseth in Cape Town in his old studio'
+            alt: 'Andrew Brauteseth in Cape Town in front of Table Mountain'
         },
         actions: [
             {
