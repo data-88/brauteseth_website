@@ -109,10 +109,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Howzit!',
-        text: "Meet **Andrew Brauteseth**, a visionary South African artist and entrepreneur who is pioneering a new era of trends, culture and community-driven innovation.",
+        text: "Meet **Andrew Brauteseth**, a South African photographer, artist and writer who is pioneering a new era of trends, culture and community.",
         image: {
             src: '/Andrew_Brauteseth_CT.jpg',
-            alt: 'Andrew Brauteseth in Cape Town in front of Table Mountain'
+            alt: 'Andrew Brauteseth in Cape Town in his old studio'
         },
         actions: [
             {
