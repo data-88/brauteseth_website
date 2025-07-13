@@ -5,6 +5,7 @@ publishDate: 'Jun 12 2025'
 tags:
   - Travel
   - Globalism
+isFeatured: true
 seo:
   image:
     src: '/post-5.jpg'

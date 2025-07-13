@@ -2,7 +2,6 @@
 title: Where is home
 excerpt: Sense of place and meaning
 publishDate: 'Jan 2 2024'
-isFeatured: true
 tags:
   - southafrica
   - norway

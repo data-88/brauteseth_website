@@ -6,6 +6,7 @@ tags:
   - AI
   - culture
   - Software
+isFeatured: true
 seo:
   image:
     src: '/post-7.jpg'

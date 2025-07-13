@@ -6,6 +6,7 @@ tags:
   - creative writing
   - story
   - Writing
+isFeatured: true
 seo:
   image:
     src: '/post-4.jpg'

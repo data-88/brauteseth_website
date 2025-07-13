@@ -1,7 +1,7 @@
 ---
 title: 'Blue Collar White Collar'
 description: Fashion with Paul van der Spuy
-publishDate: 'Jan 02 2024'
+publishDate: 'Jan 02 2012'
 seo:
   image:
     src: '/bcwc1.jpg'

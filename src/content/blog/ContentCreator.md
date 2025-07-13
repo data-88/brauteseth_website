@@ -1,12 +1,13 @@
 ---
 title: Engagement with my content
 excerpt: Behalf of the brand
-publishDate: 'Jul 5 2025'
+publishDate: 'Jul 2 2025'
 tags:
   - Advertising
   - culture
   - Writing
   - Social Media
+isFeatured: true
 seo:
   image:
     src: '/post-7.jpg'
