@@ -1,7 +1,7 @@
 ---
 title: Zanzibar
 excerpt: Island on commission
-publishDate: 'Noc 29 2011'
+publishDate: 'Nov 29 2011'
 tags:
   - Travel
   - South Africa
