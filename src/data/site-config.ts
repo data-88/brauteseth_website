@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'Activist, artist, storyteller & curious mind. [Website still under development]',
+    subtitle: 'Artist, photographer, writer & curious mind. [Website still under development]',
     description: 'Website of a multifaceted South African man',
     image: {
-        src: '/andrew.jpg',
-        alt: 'Andrew Brauteseth portrait and a very cool picture'
+        src: '/Andrew_Brauteseth_Cape_Town_Studio.jpg',
+        alt: 'Andrew Brauteseth portrait and a very cool picture in his old studio in Cape Town'
     },
     headerNavLinks: [
         {
@@ -84,7 +84,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://www.instagram.com/andrew_brauteseth/'
+            href: 'https://www.instagram.com/brauteseth_/'
         },
         {
             text: 'YouTube',
@@ -92,7 +92,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'TikTok',
-            href: 'https://tiktok.com/brauteseth/'
+            href: 'https://tiktok.com/@brauteseth/'
         },
         {
             text: 'Pinterest',
