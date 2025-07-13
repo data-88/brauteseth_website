@@ -1,15 +1,18 @@
 ---
-title: 10 reasons to be alive
-excerpt: Nothing artificial, reality is brutual
-publishDate: 'October 10 2023'
+title: 10 reasons why Cape Town
+excerpt: Viral Video
+publishDate: 'October 10 2013'
 tags:
   - life
-  - UX
-  - Web development
+  - Cape Town
+  - YouTube
 seo:
   image:
-    src: '/post-7.jpg'
-    alt: Bright lines on a dark background
+    src: '/ctlife9.jpg'
+    alt: Cape Town Life
 ---
 
 Video that went viral about Cape Town. Didn't intend it at all. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyUsWVMukT0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>

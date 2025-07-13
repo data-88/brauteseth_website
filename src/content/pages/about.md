@@ -8,11 +8,11 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/Andrew_Jon_Brauteseth_in_Sudan.jpg)
+![Alt text for image](/Andrew_Brauteseth_Cape_Town_Studio.jpg)
 
 ## Andrew Brauteseth - Fresh perspectives
 
-Andrew Brauteseth is a visionary artist and entrepreneur who is passionate about driving positive change in South Africa. He is a technocrat who believes in using data, evidence, and expertise to inform decision-making.
+Andrew Brauteseth is an artist and entrepreneur who is passionate about driving positive change in South Africa. He is a technocrat who believes in using data, evidence, and expertise to inform decision-making.
 
 Norwegians in South Africa
 
