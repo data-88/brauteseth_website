@@ -8,8 +8,8 @@ tags:
   - Meaning making
 seo:
   image:
-    src: '/post-2.jpg'
+    src: '/breestreet10.jpg'
     alt: Half open laptop on a deska
 ---
 
-Desatination marketing project
+Destination marketing project
