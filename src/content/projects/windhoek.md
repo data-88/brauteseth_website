@@ -14,8 +14,9 @@ seo:
 
 Windhoek have been doing some amazing collaborations with local designers as part of the Pure Beer Society marketing done by the Jupiter Drawing Room and InHouse Architects. I was lucky enough to be asked along to shoot and document the work. Jupiter’s Design team developed a new look and feel for bars and taverns which were re-launched with branded merchandise and furniture created by local artisans James Mudge, Ryan Matchett and Jared Odell. With materials specifically selected for authenticity and quality the transformation of each venues stayed true to the Windhoek philosophy: custom-made items that are 100% real and crafted to the highest standards.
 
+Here is some other behind the scenes from work I've done for Windhoek: 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1qbFzxMqrNw?si=E21RClN2v6E2ShfT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Credits:
 

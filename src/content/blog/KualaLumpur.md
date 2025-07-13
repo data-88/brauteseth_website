@@ -1,10 +1,10 @@
 ---
 title: 'One Night in Kuala Lumpur'
-excerpt: Philosophy of naming things
-publishDate: 'November 12 2023'
+excerpt: Noplace
+publishDate: 'Dec 12 2011'
 tags:
   - Travel
-  - Web development
+  - Asia
 seo:
   image:
     src: '/post-4.jpg'

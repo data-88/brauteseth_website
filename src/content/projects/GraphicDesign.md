@@ -11,4 +11,4 @@ seo:
     alt: Half open laptop on a deska
 ---
 
-Working on primatives
+Some of the graphic design work I've been doing over the years. 
