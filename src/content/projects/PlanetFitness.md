@@ -1,7 +1,7 @@
 ---
-title: 'Photography'
-description: Lifetime involvement in image capture and processing.
-publishDate: 'Oct 12 2023'
+title: 'Planet Fitness'
+description: Working with the lifestyle brand
+publishDate: 'Oct 12 2024'
 isFeatured: true
 seo:
   image:

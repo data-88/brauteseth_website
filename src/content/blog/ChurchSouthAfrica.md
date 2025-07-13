@@ -10,3 +10,4 @@ seo:
     alt: A person standing at the window
 ---
 
+Ideas for the positioning of spirituality and protection of human rights. 
