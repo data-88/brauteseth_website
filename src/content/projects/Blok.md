@@ -55,4 +55,7 @@ Desatination marketing project
 ![Blok Lifestyle Campaign](/BLOK38.jpg)
 ![Blok Lifestyle Campaign](/BLOK39.jpg)
 
+
 [Agency: North VCA](https://www.northvca.com/)
+</br>
+North is a global brand agency that partners with visionary strategists and creative experts to shape brands and businesses.

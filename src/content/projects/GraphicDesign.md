@@ -1,7 +1,7 @@
 ---
 title: Graphic Design
 excerpt: With software and hardware
-publishDate: 'Jan 2 2025'
+publishDate: 'Jan 2 2021'
 tags:
   - graphic
   - design
