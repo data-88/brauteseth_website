@@ -1,6 +1,6 @@
 ---
 title: 'Portraits'
-excerpt: People genre
+description: I love shooting people
 publishDate: 'Jan 2 2018'
 isFeatured: true
 tags:

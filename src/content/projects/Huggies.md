@@ -6,3 +6,5 @@ seo:
   image:
     src: '/Ride-to-Stanford.jpg'
 ---
+
+![Huggies Influence](/huggies1.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Karma
-description: Jewelry
+description: Jewelry Brand
 publishDate: 'Oct 4 2011'
 seo:
   image:
