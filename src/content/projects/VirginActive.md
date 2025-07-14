@@ -2,7 +2,6 @@
 title: 'Virgin Active'
 excerpt: Long term client
 publishDate: 'Jan 2 2012'
-isFeatured: true
 tags:
   - advertising
   - campaigns

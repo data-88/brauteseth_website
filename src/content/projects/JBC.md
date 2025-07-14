@@ -2,7 +2,6 @@
 title: JBC
 description: Belgian fashion brand
 publishDate: 'Oct 4 2013'
-isFeatured: true
 seo:
   image:
     src: '/Ride-to-Stanford.jpg'

@@ -2,7 +2,6 @@
 title: Film and Video
 description: Moving with stills
 publishDate: 'Jan 2 2024'
-isFeatured: true
 seo:
   image:
     src: 'project-7.jpg'

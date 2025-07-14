@@ -2,7 +2,6 @@
 title: Karma
 description: Jewelry
 publishDate: 'Oct 4 2011'
-isFeatured: true
 seo:
   image:
     src: '/Ride-to-Stanford.jpg'

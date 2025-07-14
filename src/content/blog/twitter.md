@@ -5,7 +5,6 @@ publishDate: 'October 10 2024'
 tags:
   - creative
   - writing
-isFeatured: true
 seo:
   image:
     src: '/post-8.jpg'

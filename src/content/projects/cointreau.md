@@ -2,7 +2,6 @@
 title: Cointreau
 excerpt: With Herd
 publishDate: 'Jan 4 2012'
-isFeatured: true
 tags:
   - photography
   - creative writing

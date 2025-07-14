@@ -2,7 +2,6 @@
 title: 'Music'
 description: Essential harmony
 publishDate: 'Jan 02 2024'
-isFeatured: true
 seo:
   image:
     src: '/project-2.jpg'

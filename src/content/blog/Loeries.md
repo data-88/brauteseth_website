@@ -6,7 +6,6 @@ tags:
   - advertising
   - Cape Town
   - Writing
-isFeatured: true
 seo:
   image:
     src: '/post-4.jpg'

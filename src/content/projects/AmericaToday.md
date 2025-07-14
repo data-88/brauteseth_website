@@ -2,7 +2,6 @@
 title: 'America Today'
 description: Dutch Fashion Brand
 publishDate: 'Jan 04 2022'
-isFeatured: true
 seo:
   image:
     src: '/project-1.jpg'
