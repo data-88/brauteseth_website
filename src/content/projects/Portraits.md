@@ -52,17 +52,17 @@ seo:
 ![Sergio Ines](/sergio_ines_whatmyboyfriendwore.jpg)
 ![Richard](/richard.jpg)
 ![Richard Dumbledee](/Richard-Dimblebee-e1337885544832.jpg)
-![Rashiq Fataar](/Rashiq_Fataar.jpg)
+<img src="/Rashiq_Fataar.jpg" alt="Rashiq Fataar" style="width:100%;" />
 ![Paul Snodgrass](/Paul-Snodgrass-Snoddie.jpg)
-![Paul Griffith](/Paul-Griffiths.jpg)
+<img src="/Paul-Griffiths.jpg" alt="Paul Griffith" style="width:100%;" />
 ![Odysseus Shirindza](/Odysseus_Shirindza_2.jpg)
 ![Nicola Kotze](/Nicola_kotze_GWC_1925.jpg)
-![Nick Clarivette](/Nick_Clarivette.jpg)
+<img src="/Nick_Clarivette.jpg" alt="Nick Clarivette" style="width:100%;" />
 ![Nic Lamond](/Nic_Lamond_Cyclist_Portrait.jpg)
 ![Mpumi Mcata](/Mpumi-Mcata-blkjks.jpg)
-![Misha Coetzee](/Misha_Coetzee.jpg)
+<img src="/Misha_Coetzee.jpg" alt="Misha Coetzee" style="width:100%;" />
 ![Mike Sharman](/Mike-Sharman.jpg)
 ![Mike Bond](/Mike_Bond_North_Advertising.jpg)
-![Mark Shuttleworth](/Mark_Shuttleworth_Portrait.jpg)
+<img src="/Mark_Shuttleworth_Portrait.jpg" alt="Mark Shuttleworth" style="width:100%;" />
 ![Mark Rosenburg](/Mark_Rosenberg_DesignTimes.jpg)
 ![Marco Man of the Cloth](/marco-man-of-cloth-blogger.jpg)
