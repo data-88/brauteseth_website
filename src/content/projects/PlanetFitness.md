@@ -1,7 +1,7 @@
 ---
 title: 'Planet Fitness'
 description: Working with the lifestyle brand
-publishDate: 'Feb 12 2024'
+publishDate: 'Feb 12 2025'
 isFeatured: true
 seo:
   image:
