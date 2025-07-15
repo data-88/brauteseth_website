@@ -1,7 +1,7 @@
 ---
 title: 'Look Models'
 description: Interesting people and personas
-publishDate: 'Jan 2 2025'
+publishDate: 'Jan 2 2023'
 tags:
   - Models
   - Web development
