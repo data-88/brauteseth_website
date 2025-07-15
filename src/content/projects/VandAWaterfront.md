@@ -1,6 +1,6 @@
 ---
 title: 'V&A Waterfront'
-excerpt: Icon of Cape Town
+description: Icon of Cape Town
 publishDate: 'Jan 2 2012'
 tags:
   - writing

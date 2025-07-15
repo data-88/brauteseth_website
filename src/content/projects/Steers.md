@@ -1,6 +1,6 @@
 ---
 title: 'Steers'
-excerpt: Backup plan
+Description: Shot on Location
 publishDate: 'Jan 2 2012'
 tags:
   - writing

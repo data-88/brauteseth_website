@@ -1,6 +1,6 @@
 ---
 title: 'Galaxy'
-excerpt: Jerwelry Campaign
+description: Jerwelry Campaign
 publishDate: 'Jan 2 2012'
 tags:
   - advertising

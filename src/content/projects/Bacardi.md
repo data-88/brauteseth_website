@@ -3,10 +3,12 @@ title: 'Bacardi'
 publishDate: Jan 02 2011
 description: "A project overview for Bacardi."
 tags:
-  - web
-  - design
-  - branding
+  - advetising
+  - maketing
+  - alcohol brands
 ---
+
+
 
 <iframe src="https://player.vimeo.com/video/42708618" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -23,3 +25,4 @@ Stylist: Catherine Bowen
 Make-up: Dale Titus
 
 Follow: @CowAfrica @TheBacardiBat @CatherineBowen @ishotimagesza @thegirldale @Photohire @AmazingSpacesZA
+
