@@ -10,4 +10,7 @@ seo:
     src: '/post-2.jpg'
     alt: Half open laptop on a desk
 ---
-Model agency project. 
+
+We started a small model agency in Cape Town. 
+
+[look.capetown](https://look.capetown)

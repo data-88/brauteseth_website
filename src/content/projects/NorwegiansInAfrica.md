@@ -29,3 +29,4 @@ The legacy of Norwegian settlers in South Africa is a testament to their resilie
 ## Contact Information
 - **Norwegian Settlers Church**: Lot, 17 Izotsha Rd, Port Shepstone, 4240[_{{{CITATION{{{_2{Norwegian Settlers Church](https://www.nsc.za.org/)
 - **Norwegian Settlers Association of Marburg**: [Norwegian Settlers Association of Marburg](http://www.norsettler.co.za/history.htm)[_{{{CITATION{{{_3{The Norwegian Settlers Association of Marburg, South Africa](http://www.norsettler.co.za/history.htm)
+
