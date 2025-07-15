@@ -65,3 +65,4 @@ seo:
 ![Mike Bond](/Mike_Bond_North_Advertising.jpg)
 ![Mark Shuttleworth](/Mark_Shuttleworth_Portrait.jpg)
 ![Mark Rosenburg](/Mark_Rosenberg_DesignTimes.jpg)
+![Marco Man of the Cloth](/marco-man-of-cloth-blogger.jpg)
