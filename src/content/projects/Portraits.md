@@ -51,7 +51,7 @@ seo:
 <img src="/Athi-Patra_Ruga.jpg" alt="Athi Patra Ruga" style="width:100%;" />
 ![Sergio Ines](/sergio_ines_whatmyboyfriendwore.jpg)
 ![Richard](/richard.jpg)
-![Richard Dumbledee](public\Richard-Dimblebee-e1337885544832.jpg)
+![Richard Dumbledee](/Richard-Dimblebee-e1337885544832.jpg)
 ![Rashiq Fataar](/Rashiq_Fataar.jpg)
 ![Paul Snodgrass](/Paul-Snodgrass-Snoddie.jpg)
 ![Paul Griffith](/Paul-Griffiths.jpg)
