@@ -60,7 +60,7 @@ Images from the shoot are featured across Blok Living’s website and social med
 ![Blok Lifestyle Campaign](/BLOK37.jpg)
 ![Blok Lifestyle Campaign](/BLOK38.jpg)
 ![Blok Lifestyle Campaign](/BLOK39.jpg)
-s
+
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
   <iframe 
