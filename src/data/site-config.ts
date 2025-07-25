@@ -128,7 +128,7 @@ const siteConfig: SiteConfig = {
     subscribe: {
         title: 'Subscribe to the Brauteseth Newsletter',
         text: 'One update per month. All the thoughts directly in your inbox.',
-        formUrl: '#'
+        formUrl: 'https://formspree.io/f/mwpqovjl'
     },
     postsPerPage: 8,
     projectsPerPage: 8

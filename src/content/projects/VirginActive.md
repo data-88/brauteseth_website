@@ -1,6 +1,6 @@
 ---
 title: 'Virgin Active'
-decription: great collaborations happened
+description: 'great collaborations happened'
 publishDate: 'Jan 2 2012'
 tags:
   - advertising

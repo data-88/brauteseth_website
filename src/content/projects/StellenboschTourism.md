@@ -1,6 +1,6 @@
 ---
 title: 'Stellenbosch Tourism'
-decription: More sides to the beautiful valley
+description: More sides to the beautiful valley
 publishDate: 'Sep 2 2014'
 tags:
   - travel

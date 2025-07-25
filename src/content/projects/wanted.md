@@ -16,5 +16,31 @@ In each of my fashion shoots I aim to do something very new and dramatic whether
 
 Some of the brands we shot included Fabiani, Daniele Alessandrini (available at Speagetti Mafia), Paul Smith, Viyella, Tiger of Sweden (available at Melrose Arch), Louis Vuitton (which we flew in from Paris as few days before the shoot), Hugo Hugo Boss, Boss Hugo Boss, Trenery, C2 and Burberry (also flown in from London).
 
-<iframe src="https://player.vimeo.com/video/26114567" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-```
+<style>
+  .fullwidth-video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .fullwidth-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+<div class="fullwidth-video-container">
+  <iframe 
+    src="https://player.vimeo.com/video/26114567" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
