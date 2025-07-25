@@ -11,6 +11,21 @@ seo:
     alt: Half open laptop on a desk
 ---
 
+![Windhoek Beer](/windhoek1.jpg)
+![Windhoek Beer](/windhoek2.jpg)
+![Windhoek Beer](/windhoek3.jpg)
+![Windhoek Beer](/windhoek4.jpg)
+![Windhoek Beer](/windhoek5.jpg)
+![Windhoek Beer](/windhoek6.jpg)
+![Windhoek Beer](/windhoek7.jpg)
+![Windhoek Beer](/windhoek8.jpg)
+![Windhoek Beer](/windhoek9.jpg)
+![Windhoek Beer](/windhoek10.jpg)
+![Windhoek Beer](/windhoek11.jpg)
+![Windhoek Beer](/windhoek12.jpg)
+![Windhoek Beer](/windhoek13.jpg)
+![Windhoek Beer](/windhoek14.jpg)
+
 
 Windhoek have been doing some amazing collaborations with local designers as part of the Pure Beer Society marketing done by the Jupiter Drawing Room and InHouse Architects. I was lucky enough to be asked along to shoot and document the work. Jupiter’s Design team developed a new look and feel for bars and taverns which were re-launched with branded merchandise and furniture created by local artisans James Mudge, Ryan Matchett and Jared Odell. With materials specifically selected for authenticity and quality the transformation of each venues stayed true to the Windhoek philosophy: custom-made items that are 100% real and crafted to the highest standards.
 

@@ -1,15 +1,16 @@
 ---
 title: 'Virgin Active'
-excerpt: Long term client
+decription: great collaborations happened
 publishDate: 'Jan 2 2012'
 tags:
   - advertising
   - campaigns
   - clients
+  - lifestyle
 seo:
   image:
-    src: '/post-14.jpg'
-    alt: Wavy lines
+    src: '/Virgin_Active_Lifestyle__MG_0645.jpg'
+    alt: Kids swimming
 ---
 
 After a 4 month process of tests, ideas, brainstorming meetings, approvals, costings and pitches, Virgin Active South Africa approved one of the biggest project shoots of my career. The Virgin Active Stories Shoot aimed to answer one essential question, ‘What Moves Me?’ Part documentary, part market research, part advertising, and part investigative photojournalism. We wanted to find and tell the members’ stories through great shots. I remember the Virgin Active Head of Marketing briefing me with: “Andrew we want you to shoot gyms as they’ve never been shot before”.
@@ -21,17 +22,20 @@ A bit of background to the idea. We originally thought this campaign work by cre
 Some images from the campaign are in a gallery here and the campaign is currently running Nationwide through print, outdoor, in clubs and on the Virgin Active website.
 
 ![Virgin Active Lifestyle](/Virgin_Active_Lifestyle__MG_0645.jpg)
-![Virgin Active Lifestyle 2](/Virgin_Active_Lifestyle__MG_0645.jpg)
 ![Virgin Active Lifestyle 3](/Virgin_Active_Lifestyle_IMG_1306_color.jpg)
 ![Virgin Active Lifestyle 4](/Virgin_Active_Lifestyle_IMG_2352.jpg)
 ![Virgin Active Lifestyle 5](/Virgin_Active_Lifestyle_IMG_4014.jpg)
 ![Virgin Active Lifestyle 6](/Virgin_Active_Lifestyle_IMG_7359.jpg)
 
 The very talented marketing team at Virgin Active are:
-Head of Marketing: Richard Lamb-Hughes
-Art Director: Isabeau Joubert (twitter)
-Copywriters: Astrid Sacks and Nick Clarivette
-Studio Head and Chief twitterer: Gio Ghignone (twitter)
-Production Co-ordinator: Courtney Ellis (twitter)
+**Head of Marketing:** Richard Lamb-Hughes
+
+**Art Director:** [Isabeau Joubert](https://twitter.com/isabeaujoubert)
+
+**Copywriters:** Astrid Sacks and Nick Clarivette
+
+**Studio Head and Chief twitterer:** [Gio Ghignone](https://twitter.com/GioGhignone)
+
+**Production Co-ordinator:** [Courtney Ellis](https://twitter.com/courtneyaellis)
 
 Virgin Active is one of South Africa’s most interactive brands, I recommend following them on twitter: @virginactivesa
