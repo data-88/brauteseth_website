@@ -26,10 +26,11 @@ Some images from the campaign are in a gallery here and the campaign is currentl
 ![Virgin Active Lifestyle 4](/Virgin_Active_Lifestyle_IMG_2352.jpg)
 ![Virgin Active Lifestyle 5](/Virgin_Active_Lifestyle_IMG_4014.jpg)
 ![Virgin Active Lifestyle 6](/Virgin_Active_Lifestyle_IMG_7359.jpg)
-![Virgin Active Lifestyle 7](/IMG_2674.jpg)
+<img src="/IMG_2674.jpg" alt="Virgin Active Lifestyle 7" style="width: 100%; height: auto;" />
+
 
 The very talented marketing team at Virgin Active are:
-**Head of Marketing:** Richard Lamb-Hughes
+**Head of Marketing:** [Richard Lamb-Hughes](https://www.linkedin.com/in/rlhishere/?originalSubdomain=za)
 
 **Art Director:** [Isabeau Joubert](https://twitter.com/isabeaujoubert)
 
@@ -39,4 +40,4 @@ The very talented marketing team at Virgin Active are:
 
 **Production Co-ordinator:** [Courtney Ellis](https://twitter.com/courtneyaellis)
 
-Virgin Active is one of South Africa’s most interactive brands, I recommend following them on twitter: @virginactivesa
+Virgin Active is one of South Africa’s most interactive brands. I recommend following them on X: [@virginactivesa](http://x.com/virginactivesa)
