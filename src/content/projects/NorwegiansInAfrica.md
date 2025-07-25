@@ -7,9 +7,6 @@ seo:
     src: '/project-6.jpg'
 ---
 
-
-# The Brauteseth Legacy: From Norwegian Settlers to South African Leadership
-
 ## 1882 Arrival in Marburg: Otto Johannes “O.J.” Brauteseth
 
 On **29 August 1882**, the Norwegian barque *Lapland* landed at the **Umzimkulu River**, carrying **34 families (229 people)** to Natal’s South Coast. These settlers founded **Marburg**, each granted 100 acres and drawn together by farming and faith.
