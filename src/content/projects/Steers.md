@@ -1,15 +1,15 @@
 ---
 title: 'Steers'
-Description: Shot on Location
+description: Shot on Location
 publishDate: 'Jan 2 2012'
 tags:
-  - writing
-  - creative writing
-  - culture
+  - advertising
+  - lifestyle
+  - Gauteng
 seo:
   image:
-    src: '/post-14.jpg'
-    alt: Wavy lines
+    src: '/steers1.jpg'
+    alt: Steeers Lifestyle
 ---
 
 Some stills I shot for Steers with a Joburg agency called [WhatIsNew](https://www.whatisnew.co.za/). We shot this during two nights in downtown Pretoria. 

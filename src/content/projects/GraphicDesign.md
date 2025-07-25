@@ -12,3 +12,5 @@ seo:
 ---
 
 Some of the graphic design work I've been doing over the years. 
+
+## Still in progress making this page

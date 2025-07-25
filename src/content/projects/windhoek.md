@@ -31,7 +31,30 @@ Windhoek have been doing some amazing collaborations with local designers as par
 
 Here is some other behind the scenes from work I've done for Windhoek: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1qbFzxMqrNw?si=E21RClN2v6E2ShfT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>
+  .fullwidth-video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .fullwidth-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/1qbFzxMqrNw?si=E21RClN2v6E2ShfT" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## Credits:
 

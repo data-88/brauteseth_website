@@ -9,7 +9,30 @@ seo:
 
 ![JBC Fashion](/jbc1.jpg)
 ![JBC Fashion](/jbc2.jpg)
+<style>
+  .fullwidth-video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eubwiygYCA?si=-ZzacVAEyAN_vcUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  .fullwidth-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RSn1TDuOSPg?si=iRDbFrBhSQBu2NXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/8eubwiygYCA?si=-ZzacVAEyAN_vcUq" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/RSn1TDuOSPg?si=iRDbFrBhSQBu2NXd" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

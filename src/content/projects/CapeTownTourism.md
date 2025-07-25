@@ -1,15 +1,15 @@
 ---
 title: Cape Town Tourism
-description: Life of Cape Town
+description: Life in Cape Town
 publishDate: 'Jan 2 2012'
 tags:
   - lifestyle
   - advertising
-  - culture
+  - Cape Town
 seo:
   image:
-    src: '/post-14.jpg'
-    alt: Wavy lines
+    src: '/cttourism4.jpg'
+    alt: Cape Town Tourism
 ---
 ![Cape Town Tourism](/cttourism4.jpg)
 ![Cape Town Tourism](/cttourism5.jpg)
@@ -28,3 +28,27 @@ seo:
 ![Cape Town Lifestyle](/ctlife11.jpg)
 ![Cape Town](/ctlife14.jpg)
 ![Cape Town](/ctlife18.jpg)
+
+<style>
+  .fullwidth-video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .fullwidth-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/xUIqPYJtdTE?si=x7w7Ke1wgbs3f87B" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
