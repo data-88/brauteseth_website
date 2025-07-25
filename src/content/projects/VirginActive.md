@@ -26,6 +26,7 @@ Some images from the campaign are in a gallery here and the campaign is currentl
 ![Virgin Active Lifestyle 4](/Virgin_Active_Lifestyle_IMG_2352.jpg)
 ![Virgin Active Lifestyle 5](/Virgin_Active_Lifestyle_IMG_4014.jpg)
 ![Virgin Active Lifestyle 6](/Virgin_Active_Lifestyle_IMG_7359.jpg)
+![Virgin Active Lifestyle 7](/IMG_2674.jpg)
 
 The very talented marketing team at Virgin Active are:
 **Head of Marketing:** Richard Lamb-Hughes

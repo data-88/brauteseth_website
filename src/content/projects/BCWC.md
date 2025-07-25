@@ -29,3 +29,5 @@ Although I’ve been friends with the Cape Town legend Paul van der Spuy for yea
 </div>
 
 [Blue Collar White Collar – Stylish and Contemporary Fashion Brand on Instagram](https://www.instagram.com/bluecollarwhitecollar/)
+
+[Blue Collar White Collar – On Facebook](https://www.facebook.com/bluecollarwhitecollar/)

@@ -11,4 +11,6 @@ seo:
     alt: Walking person silhouette
 ---
 
-Crazy times
+Crazy times in the arab country. Flew through Dubai. 
+
+##Work in progress article

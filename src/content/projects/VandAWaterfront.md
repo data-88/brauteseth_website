@@ -22,6 +22,10 @@ seo:
 ![VA Waterfront](/waterfront7.jpg)
 ![VA Waterfront](/waterfront8.jpg)
 ![VA Waterfront](/waterfront9.jpg)
+![VA Waterfront](/GWC_2396.jpg)
+![VA Waterfront](/GWC_2029_2.jpg)
+![VA Waterfront](/GWC_4054jpg)
+![VA Waterfront](/GWC_8916_1.jpg)
 
 
 This lifestyle shoot at the V&A Waterfront beautifully captures the juxtaposition between Cape Town’s rich heritage and its evolving modern identity. The concept emerged during visits to HAAS in District Six, a creative hub founded by Glynn Venter. HAAS—initially centered in the Bo-Kaap—has evolved into a collective model encompassing a design gallery, concept store, café, and cultural space powered by exceptional single origin coffee.

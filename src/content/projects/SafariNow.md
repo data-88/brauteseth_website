@@ -13,6 +13,7 @@ seo:
 ![SafariNow campaign](/safarinow01.jpg)
 ![SafariNow campaign](/safarinow02.jpg)
 ![SafariNow campaign](/safarinow03.jpg)
+![SafariNow campaign](/GWC_2574Safari-Now-Acommodation.jpg)
 
 ## Videos
 

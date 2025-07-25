@@ -1,5 +1,5 @@
 ---
-title: 'Marketing Burj Dubai'
+title: 'Marketing in Dubai'
 description: Working in the Hot Spot
 publishDate: 'Jan 02 2010'
 seo:
@@ -10,7 +10,8 @@ seo:
 
 When I left Rhodes I worked in Dubai for a company called Emaar Properties. 
 
-![Steers Advertising](/burjkhalifa.jpg)
+![Burj Khalifa](/burjkhalifa.jpg)
+![Dubai Marina](/dubaimarina.jpg)
 
 [Emaar Properties](https://www.emaar.com/)
 
