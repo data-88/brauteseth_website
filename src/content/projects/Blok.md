@@ -13,7 +13,14 @@ seo:
     alt: Woman at Seapoint Promenade
 ---
 
-Desatination marketing project
+Blok Living offers modern, stylish urban homes in Cape Town designed for young professionals and creatives. Their focus is on vibrant, well-designed spaces that blend comfort, community, and culture.
+
+## Lifestyle Photography Campaign
+
+The campaign captured authentic moments of daily life within Blok Living properties — from bright, airy interiors to rooftop gatherings. Using natural light and candid shots, the photos highlight both the design details and the vibrant lifestyle the brand represents.
+
+Images from the shoot are featured across Blok Living’s website and social media, helping connect with their target audience in a fresh, engaging way.
+
 
 ![Blok Lifestyle Campaign](/BLOK1.jpg)
 ![Blok Lifestyle Campaign](/BLOK2.jpg)
@@ -47,7 +54,6 @@ Desatination marketing project
 ![Blok Lifestyle Campaign](/BLOK20.jpg)
 ![Blok Lifestyle Campaign](/BLOK31.jpg)
 ![Blok Lifestyle Campaign](/BLOK32.jpg)
-![Blok Lifestyle Campaign](/BLOK33.jpg)
 ![Blok Lifestyle Campaign](/BLOK34.jpg)
 ![Blok Lifestyle Campaign](/BLOK35.jpg)
 ![Blok Lifestyle Campaign](/BLOK36.jpg)
