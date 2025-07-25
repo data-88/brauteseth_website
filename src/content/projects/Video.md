@@ -53,3 +53,7 @@ seo:
 <div class="fullwidth-video-container">
   <iframe src="https://www.youtube.com/embed/xUIqPYJtdTE?si=x7w7Ke1wgbs3f87B" title="YouTube video player" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 </div>
+
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/v6n5Q5UlrBQ?si=yVniYDsw8bFUR6It" title="YouTube video player" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+</div>
