@@ -1,6 +1,6 @@
 ---
 title: Graphic Design
-excerpt: With software and hardware
+description: With software and hardware
 publishDate: 'Jan 2 2021'
 tags:
   - graphic
@@ -13,4 +13,4 @@ seo:
 
 Some of the graphic design work I've been doing over the years. 
 
-## Still in progress making this page
+### Still in progress making this page
