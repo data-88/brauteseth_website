@@ -84,7 +84,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'https://www.linkedin.com/in/andrewbth/'
+            href: 'https://www.linkedin.com/in/brauteseth/'
         },
         {
             text: 'Instagram',
@@ -113,7 +113,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Howzit!',
-        text: "Meet **Andrew Brauteseth**, photographer, artist and writer who is pioneering a new era of trends, culture and community.",
+        text: "Meet **Andrew**, curiosity driven creator without limits.",
         image: {
             src: '/AndrewBWjacket.jpg',
             alt: 'Andrew Brauteseth in Cape Town in his old studio'
