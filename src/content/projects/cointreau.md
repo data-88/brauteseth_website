@@ -12,7 +12,6 @@ seo:
     alt: Cointreau Campaign Image
 ---
 
-![Cointreau Advertising 1](/cointeau01.jpg)
 ![Cointreau Advertising 2](/cointreau2.jpg)
 ![Cointreau Advertising 3](/cointreau3.jpg)
 ![Cointreau Advertising 4](/cointreau4.jpg)

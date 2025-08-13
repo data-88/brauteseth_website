@@ -1,6 +1,6 @@
 ---
-title: Like Linden
-excerpt: Home from home
+title: When in Linden
+excerpt: A quietly rooted pocket of the city where old-growth canopies outlast the streetlights and espresso aromas weave between verandas at dawn.
 publishDate: 'November 12 2021'
 tags:
   - Joburg
