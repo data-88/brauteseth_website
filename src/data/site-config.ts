@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Andrew Brauteseth',
-    subtitle: 'Artist, photographer, videographer, writer & curious mind. [Website still under development]',
+    subtitle: 'A systems artist — working at the intersection of data, culture and infrastructure. [This site is under construction — like all systems worth building]',
     description: 'Website of a multifaceted South African man',
     image: {
-        src: '/Andrew_Brauteseth_Cape_Town_Studio.jpg',
-        alt: 'Andrew Brauteseth portrait and a very cool picture in his old studio in Cape Town'
+        src: '/AndrewBWjacket.jpg',
+        alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
     },
     headerNavLinks: [
         {
