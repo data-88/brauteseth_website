@@ -12,6 +12,8 @@ seo:
     alt: Fashion Shoot
 ---
 
+## Work in Progress 
+
 ![Last Friday Shot](/last-friday.png)
 
 *Four hours, one throne, zero apologies.*
