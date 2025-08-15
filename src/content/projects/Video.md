@@ -30,6 +30,10 @@ seo:
   <iframe src="https://www.youtube.com/embed/paWLUe6tM64?si=cy0bFEdkAS1Sg6uN" title="YouTube video player" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 </div>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" src="https://www.youtube.com/embed/98izYxgVRQU" allowfullscreen title="The Rose"></iframe>
+</div>
+
 <div class="fullwidth-video-container">
   <iframe src="https://www.youtube.com/embed/wyUsWVMukT0?si=MgFjHHXRdo6hLWsl" title="YouTube video player" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 </div>
