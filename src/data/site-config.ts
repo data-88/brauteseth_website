@@ -126,8 +126,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to the Brauteseth Newsletter',
-        text: 'One update per month. All the thoughts directly in your inbox.',
+        title: 'Subscribe to Brauteseth Field Notes',
+        text: 'One update per week. All the thoughts directly in your inbox.',
         formUrl: 'https://formspree.io/f/mwpqovjl'
     },
     postsPerPage: 8,

@@ -19,28 +19,31 @@ In 5 years Bree Street has become a hugely successful destination that’s const
 
 As a personal project, I’ve begun a destination photo-blog about one of Cape Town’s city streets, Bree Street. Cape Town has many popular street destinations, the Tourists flock to Long Street, and all the skinny-jean indie kids hang out on cape town’s coffee-culture strip, Kloof Street, the original home of Vida Cafe. But Bree Street has a premium subtlety to it, and every few weeks I pack a few lenses in my photobag, and spend an evening wondering the streets breathing in it’s character.
 
-
 After living and working on ‘Brand Dubai’ in the United Arab Emirates for years, I became fascinated with destination branding. I enjoy seeing brands developed visually. World-wide agences, like Futurebrand, develop huge destination brands and massive campaigns aired on CNN. Truly Greece. Malaysia truly Asia. 100 PURE New Zealand. I wanted to develop a new destination in Cape Town that hasn’t had much attention, and perhaps gone unnoticed at times. I spend a lot of time on this street, whether it’s a few evening glasses of wine at caveau or a quick lunch in the deli, a wednesday night catch-up beer with mates at &Union, or a quick coffee meeting at Jardine Bakery. I take shots of shoes, beers, coffee, moments of people walking and enjoying the street, cool cars, architecture, business interiors, street detailing, trying to document the many added subtleties that give a street it’s character.
 
-![Bree Street Cape Town Lifestyle](/breestreet1.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet2.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet3.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet4.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet5.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet6.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet7.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet8.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet9.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet10.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet11.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet12.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet13.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet14.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet15.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet16.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet17.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet18.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet19.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet20.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet21.jpg)
-![Bree Street Cape Town Lifestyle](/breestreet22.jpg)
+<div style="width:100%;">
+  <img src="/breestreet1.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet2.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet3.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet4.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet5.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet6.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet7.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet8.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet9.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet10.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet11.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet12.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet13.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet14.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet15.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet16.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet17.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet18.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet19.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet20.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet21.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+  <img src="/breestreet22.jpg" alt="Bree Street Cape Town Lifestyle" style="width:100%; display:block;" />
+</div>
+
+
