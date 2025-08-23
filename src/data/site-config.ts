@@ -66,6 +66,10 @@ const siteConfig: SiteConfig = {
             text: 'Services',
             href: '/services'
         },
+        {
+            text: 'Audit',
+            href: '/audit'
+        },
     ],
     footerNavLinks: [
         {
