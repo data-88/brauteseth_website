@@ -126,7 +126,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Brauteseth Field Notes',
+        title: 'Subscribe to Field Notes',
         text: 'One update per week. All the thoughts directly in your inbox.',
         formUrl: 'https://formspree.io/f/mwpqovjl'
     },
