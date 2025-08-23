@@ -32,6 +32,8 @@ You’ll get:
 
 👉 *This is not coaching. It’s architectural intervention.*
 
+👉 [Book a Discovery Call](https://calendly.com/andrewbrauteseth/mythic-audit)
+
 ---
 
 ### 2. **Field Notes: The Signal**  
@@ -96,4 +98,5 @@ Let’s talk about your wedge.
 ## 🔗 Ready to Build With Purpose?
 
 Let’s talk about what you need — and make something powerful together.  
-👉 [Click here to book a call](/contact)
+
+👉 [Contact details](/contact)

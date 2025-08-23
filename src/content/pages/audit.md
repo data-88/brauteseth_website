@@ -17,7 +17,7 @@ The Mythic Audit™ is a 90-minute session where I help you:
 - Find your wedge
 - Design your first move
 
-For founders, creatives, and high-agency minds who feel stuck despite their skills.
+For founders, creatives and high-agency minds who feel stuck despite their skills.
 
 **Price: R10,000 | $500**  
 Only 5 spots open.
