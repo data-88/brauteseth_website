@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
-    subtitle: 'Systems artist architecting freedom, ownership and return.',
+    subtitle: 'Systems artist architecting freedom, ownership and return. I help awakened builders design their way out of the machine.',
     description: 'Systems Artist',
     image: {
         src: '/AndrewBWjacket.jpg',
@@ -112,16 +112,16 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Howzit!',
-        text: "Meet **Andrew**, curiosity driven creator without limits.",
+        title: 'Intelligence for those who feel the weight of the machine —  and are ready to redesign it.',
+        text: "You’ve built before. You’ve led.  You’ve fallen. And you know: Freedom isn’t earned. It’s engineered.",
         image: {
             src: '/AndrewBWjacket.jpg',
-            alt: 'Andrew Brauteseth in Cape Town in his old studio'
+            alt: 'Andrew Brauteseth in Linden'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Read the lastest field notes',
+                href: '/blog/anthill/'
             }
         ]
     },
