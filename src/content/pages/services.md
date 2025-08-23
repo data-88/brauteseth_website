@@ -93,10 +93,5 @@ For the **awake**.
 ## 🔗 Ready to Design Your Way Out?
 
 Let’s talk about your wedge.  
-[Book a Discovery Call]
-
-## 🔗 Ready to Build With Purpose?
-
-Let’s talk about what you need — and make something powerful together.  
 
 👉 [Book a Discovery Call](https://calendly.com/andrewbrauteseth/mythic-audit)

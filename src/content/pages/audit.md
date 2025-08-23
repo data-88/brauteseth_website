@@ -1,7 +1,7 @@
 ---
 title: The Mythic Audit
 seo:
-  title: The Mythic Audit™ — Find Your Wedge | brauteseth
+  title: The Mythic Audit™ — Find Your Wedge
   description: A 90-minute architectural intervention to diagnose your system, find your wedge, and design your path to freedom. For the awake, capable, and ready.
 ---
 
