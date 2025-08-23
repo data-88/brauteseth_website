@@ -99,4 +99,4 @@ Let’s talk about your wedge.
 
 Let’s talk about what you need — and make something powerful together.  
 
-👉 [Contact details](/contact)
+👉 [Book a Discovery Call](https://calendly.com/andrewbrauteseth/mythic-audit)
