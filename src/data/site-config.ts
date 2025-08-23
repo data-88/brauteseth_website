@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Andrew Brauteseth',
-    subtitle: 'A systems artist — working at the intersection of data, culture and infrastructure. [This site is under construction — like all systems worth building]',
-    description: 'Website of a multifaceted South African man',
+    title: 'Brauteseth',
+    subtitle: 'Systems artist architecting freedom, ownership and return.',
+    description: 'Systems Artist',
     image: {
         src: '/AndrewBWjacket.jpg',
         alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
