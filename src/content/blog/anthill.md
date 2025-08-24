@@ -1,6 +1,6 @@
 ---
 title: The Ant who designs the hill
-excerpt: Dispatch 1
+excerpt: New systems
 publishDate: 'Aug 22 2025'
 tags:
   - Story
