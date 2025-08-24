@@ -8,8 +8,7 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-## Andrew Brauteseth
-### Architect of Systems, Return, and Myth
+### Architect of Systems, Stories and Myth
 
 I don’t create content.  
 I design **infrastructure** — for freedom, ownership, and return.
@@ -95,7 +94,4 @@ And where one man’s return becomes a signal for others:
 > You are the architect.*
 
 ---
-
-**Andrew Brauteseth**  
-Rebuilding in public.  
-From SA → US → world.
+![Brauteseth Systems Logo](/BRAUTESETH-SYSTEMS-LOGO.png "Brauteseth Systems Logo")
