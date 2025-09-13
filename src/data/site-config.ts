@@ -62,14 +62,6 @@ const siteConfig: SiteConfig = {
             text: 'About',
             href: '/about'
         },
-        {
-            text: 'Services',
-            href: '/services'
-        },
-        {
-            text: 'Audit',
-            href: '/audit'
-        },
     ],
     footerNavLinks: [
         {
@@ -92,11 +84,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://www.instagram.com/brauteseth_/'
+            href: 'https://www.instagram.com/sponsoreddisappointment/'
         },
         {
             text: 'YouTube',
-            href: 'https://www.youtube.com/@andrewbrauteseth/'
+            href: 'https://www.youtube.com/@brauteseth/'
         },
         {
             text: 'TikTok',
