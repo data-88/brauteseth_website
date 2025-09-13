@@ -108,8 +108,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Redesigning the machine.',
-        text: "Soul Over System.",
+        title: 'Architect of Unseen Systems',
+        text: "Building a world people didn’t know they were missing",
         image: {
             src: '/AndrewBWjacket.jpg',
             alt: 'Andrew Brauteseth in Linden'
