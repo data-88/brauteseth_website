@@ -109,7 +109,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Redesigning the machine.',
-        text: "You’ve built before. You’ve led. You’ve fallen. And you know: Freedom isn’t earned. It’s engineered.",
+        text: "Soul Over System.",
         image: {
             src: '/AndrewBWjacket.jpg',
             alt: 'Andrew Brauteseth in Linden'
