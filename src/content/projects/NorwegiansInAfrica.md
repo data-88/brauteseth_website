@@ -1,7 +1,7 @@
 ---
 title: 'Norwegians in South Africa'
 description: Telling the Story of the Brauteseth family and the Norwegian role in shaping the history of South Africa
-publishDate: 'Dec 28 2023'
+publishDate: 'Dec 28 2024'
 seo:
   image:
     src: '/project-6.jpg'
@@ -46,7 +46,7 @@ Ken oversaw both design and grassroots labor, ensuring the building functioned a
 
 ### Entrepreneurial Leadership — Clive Brauteseth
 
-**Clive Arne Brauteseth**, grandson of Kristian, has played a major role in transforming **Brauteseth Blasting** into a leading mining service across Southern Africa. With expansion into multiple provinces and neighboring nations, the company employs advanced heavy machinery and supports infrastructure projects—showing the family’s shift into industrial enterprise.
+**Clive Brauteseth**, grandson of Kristian, has played a major role in transforming **Brauteseth Blasting** into a leading mining service across Southern Africa. With expansion into multiple provinces and neighboring nations, the company employs advanced heavy machinery and supports infrastructure projects—showing the family’s shift into industrial enterprise.
 
 ### Political Service — Tim Brauteseth
 

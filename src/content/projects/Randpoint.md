@@ -2,6 +2,7 @@
 title: 'Randpoint'
 description: Systems safety company protecting data.
 publishDate: 'Jan 04 2024'
+isFeatured: true
 seo:
   image:
     src: '/RandpointLogo.jpg'

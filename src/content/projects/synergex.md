@@ -2,6 +2,7 @@
 title: 'Synergex'
 description: The language of systems
 publishDate: 'Sep 2 2025'
+isFeatured: true
 tags:
   - systems
   - architecture
