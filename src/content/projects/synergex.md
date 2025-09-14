@@ -10,7 +10,7 @@ tags:
   - complexity
 seo:
   image:
-    src: '/synergex.png'
+    src: '/synergex-square.jpeg'
     alt: Language of Systems Logo
 ---
 
