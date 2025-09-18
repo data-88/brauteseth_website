@@ -108,7 +108,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Redesigning systems so humans can thrive',
+        title: 'Engineering harmony between people, processes and purpose.',
         text: "Turning complexity into clarity.",
         image: {
             src: '/AndrewBWjacket.jpg',
