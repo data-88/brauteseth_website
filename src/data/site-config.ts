@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
-    subtitle: 'Human Systems Architect',
-    description: 'Systems Artist',
+    subtitle: 'Systems Architect',
+    description: 'Systems Architect',
     image: {
         src: '/AndrewBWjacket.jpg',
         alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
