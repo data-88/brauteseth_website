@@ -84,7 +84,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://www.instagram.com/sponsoreddisappointment/'
+            href: 'https://www.instagram.com/brauteseth.systems/'
         },
         {
             text: 'YouTube',
