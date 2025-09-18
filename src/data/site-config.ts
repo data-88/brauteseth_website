@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
-    subtitle: 'Priest of digital spirituality',
+    subtitle: 'Human Systems Architect',
     description: 'Systems Artist',
     image: {
         src: '/AndrewBWjacket.jpg',
@@ -108,8 +108,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Architect of Unseen Systems',
-        text: "Building a world people didn’t know they were missing",
+        title: 'Redesigning systems so humans can thrive',
+        text: "Turning complexity into clarity.",
         image: {
             src: '/AndrewBWjacket.jpg',
             alt: 'Andrew Brauteseth in Linden'
