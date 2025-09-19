@@ -62,6 +62,10 @@ const siteConfig: SiteConfig = {
             text: 'About',
             href: '/about'
         },
+        {
+            text: 'Session',
+            href: '/session'
+        },
     ],
     footerNavLinks: [
         {
