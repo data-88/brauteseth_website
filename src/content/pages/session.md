@@ -9,7 +9,7 @@ seo:
 ## Let’s grab a coffee/beer/water. I’ll bring my notebook, my questions and my curiosity.  
 We’ll map your system — not to fix it, but to *see* it.
 
-You get a field journal, a 60-second video, and one small step forward.  
+You get a field journal, a 60-second video and one small step forward.  
 
 **R2,800. No pressure. Just a good conversation.**
 
@@ -19,9 +19,9 @@ You’re not broken. You’re just stuck in a system you didn’t design.
 
 Maybe it’s your business. Your job. Your creative project. Your daily routine.  
 It’s not that you lack skills or hustle.  
-It’s that the *system* you’re operating within is invisible, misaligned, or quietly crushing you.
+It’s that the *system* you’re operating within is invisible, misaligned or quietly crushing you.
 
-I help you see it. Not with jargon or spreadsheets.  
+I help you see it. Not with jargon or sales flash.  
 With a conversation. A sketch. A story.
 
 ---
@@ -65,6 +65,6 @@ This isn’t coaching. It’s **co-creation**.
 If you’re feeling the weight of the “Ant Hill,” this is your invitation to step outside it.
 
 
-**Book your Systems Coffee today.**  
+**Book your Systems Session today.**  
 
-👉 [Book Your Systems Coffee Now → (Opens WhatsApp)](https://wa.me/27729418482))
+👉 [Book Your Session Now → (Opens WhatsApp)](https://wa.me/27729418482))
