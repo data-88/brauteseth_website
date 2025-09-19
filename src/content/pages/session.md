@@ -6,7 +6,7 @@ seo:
 ---
 
 
-## Let’s grab a coffee/beer/water. I’ll bring my notebook, my questions and my curiosity.  
+## Let’s grab a coffee/beer/water. I’ll bring my notebook, questions and curiosity.  
 We’ll map your system — not to fix it, but to *see* it.
 
 You get a field journal, a 60-second video and one small step forward.  
@@ -26,7 +26,7 @@ With a conversation. A sketch. A story.
 
 ---
 
-## What Happens in Our Coffee?
+## What Happens in Our Session?
 
 This isn’t coaching. It’s **co-creation**.
 
