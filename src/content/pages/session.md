@@ -3,9 +3,8 @@ title: Systems Session
 seo:
   title: System Session
   description: Mapping your system
-seo:
   image:
-    src: '/session.png'
+    src: '/session.jpg'
     alt: Systems Session
 ---
 

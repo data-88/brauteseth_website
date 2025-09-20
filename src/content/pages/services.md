@@ -2,7 +2,7 @@
 title: Services
 seo:
   title: Services
-  description: Video, photo, and creative storytelling services by Brauteseth
+  description: Video, photo and creative storytelling services by Brauteseth
 ---
  
 **Systems Creation & Navigation for the Awakened Builder**
