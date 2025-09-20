@@ -51,7 +51,7 @@ This isn’t coaching. It’s **co-creation**.
     Within 24 hours, you’ll get:  
     - A **Field Journal (PDF)** — your system, mapped and named.  
     - A **60-Second Micro-Documentary (MP4)** — your “aha” moment, captured.  
-    - Your **“Wedge”** — one small, absurd, doable action to start shifting things.
+    - Your **Artefact** — one small, absurd, doable action to start shifting things.
 
 ---
 
