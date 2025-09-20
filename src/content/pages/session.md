@@ -3,6 +3,10 @@ title: Systems Session
 seo:
   title: System Session
   description: Mapping your system
+seo:
+  image:
+    src: '/session.png'
+    alt: Systems Session
 ---
 
 
@@ -53,6 +57,8 @@ This isn’t coaching. It’s **co-creation**.
     - A **60-Second Micro-Documentary (MP4)** — your “aha” moment, captured.  
     - Your **Artefact** — one small, absurd, doable action to start shifting things.
 
+Walk away not just with clarity, but with a renewed sense of agency over your path."
+
 ---
 
 ## Who Is This For?
@@ -62,9 +68,9 @@ This isn’t coaching. It’s **co-creation**.
 - The **executive** who’s climbing the ladder but hates the view.
 - The **builder** who knows there’s a better way — they just can’t see it yet.
 
-If you’re feeling the weight of the “Ant Hill,” this is your invitation to step outside it.
+If you’re feeling the weight of the “Ant Hill” - this is your invitation to step outside it.  
 
+## Book your session today: 
 
-**Book your Systems Session today.**  
-
-👉 [Book Your Session Now → (Opens WhatsApp)](https://wa.me/27729418482))
+👉 [WhatsApp](https://wa.me/27729418482)
+ or email [andrew@brauteseth.co.za](mailto:andrew@brauteseth.co.za) to ask a question or book directly.
