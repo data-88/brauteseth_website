@@ -9,7 +9,8 @@ seo:
 ---
 
 
-## Let’s grab a coffee/beer/water. I’ll bring my notebook, questions and curiosity.  
+## Let’s grab a coffee/beer/water. I’ll bring my notebook, questions and curiosity.
+  
 We’ll map your system — not to fix it, but to *see* it.
 
 You get a field journal, a 60-second video and one small step forward.  

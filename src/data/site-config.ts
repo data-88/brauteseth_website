@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
-    subtitle: 'Systems Architect',
-    description: 'Systems Architect',
+    subtitle: 'Photography & Systems',
+    description: 'Cretivity is key',
     image: {
         src: '/AndrewBWjacket.jpg',
         alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
@@ -61,10 +61,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
-        },
-        {
-            text: 'Session',
-            href: '/session'
         },
     ],
     footerNavLinks: [
@@ -112,8 +108,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Engineering harmony between people, processes and purpose.',
-        text: "Turning complexity into clarity.",
+        title: 'Efforts in fields of photography, video, roadtrips, adventures, marketing, concepts, visual design, information, systems, cyberseccurity, communication and code.',
+        text: "Original thoughts pls.",
         image: {
             src: '/AndrewBWjacket.jpg',
             alt: 'Andrew Brauteseth in Linden'
