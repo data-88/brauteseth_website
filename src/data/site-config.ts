@@ -108,10 +108,10 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Efforts in fields of photography, video, roadtrips, adventures, marketing, concepts, visual design, information, systems, cyberseccurity, communication and code.',
+        title: 'Efforts in various fields including photography, video, roadtrips, adventures, marketing, concepts, visual design, information, systems, cyberseccurity, communication and code.',
         text: "Original thoughts pls.",
         image: {
-            src: '/AndrewBWjacket.jpg',
+            src: '/andrew-plane.jpg',
             alt: 'Andrew Brauteseth in Linden'
         },
         actions: [

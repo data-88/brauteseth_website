@@ -93,8 +93,7 @@ This audit is a powerful lead-generation tool and gateway to long-term security 
 
 - **Website**: [www.randpoint.co.za](https://www.randpoint.co.za)
 - **Email**: info@randpoint.co.za
-- **Phone**: [Insert Phone Number]
-- **Address**: 12 Bath Ave, Rosebank, Johannesburg
+
 
 ---
 
