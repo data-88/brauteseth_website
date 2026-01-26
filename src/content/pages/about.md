@@ -12,8 +12,8 @@ seo:
 
 Multi-threaded human on the quest to find and create meaning. 
 
-Interested in creativity and code. Has a CV covering consulting work for cybersecurity and IT. Also have a passion for photography and help brands come up with interesting imagery. 
+CV covers 5oo commissioned photography works. 
 
 Grew up in KZN. Try spend most of my time in the Cape. 
 
-Currently pitching for both creative and technical work. 
+Currently creating new art and developing ideas both photography and video projects. 
