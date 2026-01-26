@@ -11,4 +11,6 @@ seo:
     alt: Empty road into the Horizon
 ---
 
+[Article under development]
+
 Certain role of being disinterested in an art gallery. 
