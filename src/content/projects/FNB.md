@@ -12,20 +12,19 @@ We’re holed up in a budget B&B in Ladysmith. I’m allocated a room with no wi
 
 Our last shoot day is in Orlando, Soweto, where streets were designed by apartheid military to quickly triangulate areas in order to suppress civil unrest. A nearby charismatic preacher leads hymns so loud they could reach heaven. Television helicopters hover over us while I tether my Canon to my Macbook Air and debate Roarking and the cult of CrossFit.
 
-![FNB 1](/fnb1.jpg)
-![FNB 2](/fnb2.jpg)
-![FNB 3](/fnb3.jpg)
-![FNB 4](/fnb4.jpg)
-![FNB 5](/fnb5.jpg)
-![FNB 6](/fnb6.jpg)
-![FNB 7](/fnb7.jpg)
-![FNB 8](/fnb8.jpg)
-![FNB 9](/fnb9.jpg)
-![FNB 10](/fnb10.jpg)
+<img src="/fnb1.jpg" alt="FNB 1" style="width: 100%;">
+<img src="/fnb2.jpg" alt="FNB 2" style="width: 100%;">
+<img src="/fnb3.jpg" alt="FNB 3" style="width: 100%;">
+<img src="/fnb4.jpg" alt="FNB 4" style="width: 100%;">
+<img src="/fnb5.jpg" alt="FNB 5" style="width: 100%;">
+<img src="/fnb6.jpg" alt="FNB 6" style="width: 100%;">
+<img src="/fnb8.jpg" alt="FNB 8" style="width: 100%;">
+<img src="/fnb9.jpg" alt="FNB 9" style="width: 100%;">
+<img src="/fnb10.jpg" alt="FNB 10" style="width: 100%;">
 
 
-Agency: Grid Worldwide / Nathan Reddy 
-Client: Pia Marangoni
-Creative Director: Kirsten Townsend 
-Make-up Artist: Laura Kingma
+Agency: [Grid Worldwide](https://www.gridworldwide.com/) / Nathan Reddy  
+Client: Pia Marangoni  
+Creative Director: Kirsten Townsend  
+Make-up Artist: Laura Kingma  
 Stylist: Crystal Birch
