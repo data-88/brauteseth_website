@@ -18,3 +18,5 @@ Established. Real estatey. Lots of trees. I listen to the birds at 3 in the morn
 ![Linden 2](/joburg12.jpg)
 ![Joburg Linden](/joburg8.JPG)
 ![Joburg Linden 2](/joburg22.JPG)
+
+[Linden Makes Global Cool List - ENCA](https://www.enca.com/shows/sam-field-linden-makes-global-cool-list)

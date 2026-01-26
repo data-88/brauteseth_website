@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
     subtitle: 'Photography & Systems',
-    description: 'Cretivity is key',
+    description: 'Cretivity is is an act of rebellion',
     image: {
         src: '/AndrewBWjacket.jpg',
         alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
