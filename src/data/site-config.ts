@@ -108,7 +108,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Efforts in various fields including photography, video, roadtrips, adventures, marketing, concepts, visual design, information, systems, cyberseccurity, communication and code.',
+        title: 'Ventures in photography, video, concepts and code.',
         text: "Original thoughts pls.",
         image: {
             src: '/andrew-plane.jpg',
