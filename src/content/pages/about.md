@@ -12,7 +12,7 @@ seo:
 
 I am Andrew Brauteseth, a South African multidisciplinary artist, designer, marketer and technical practitioner working across fine art, photography and digital systems.
 
-My practice is shaped by an unusual overlap of disciplines: visual art, construction, fabrication and cloud and IT security. Rather than treating these as separate careers, I use them as complementary tools—ways of understanding how systems are built, how they fail and how people are affected when they do.
+My practice is shaped by an unusual overlap of disciplines: photography, videography, visual art, construction, fabrication, cloud, code and IT security. Rather than treating these as separate careers, I use them as complementary tools—ways of understanding how systems are built, how they fail and how people are affected when they do.
 
 At the core of my work is an interest in power, infrastructure and human presence. I am drawn to real environments, real participants and real constraints. Many projects are process-led and situational, engaging directly with materials, locations or social conditions rather than symbolic abstractions. I’m less interested in spectacle than in clarity—work that can stand up to close inspection over time. This practical grounding informs my art practice: accuracy matters, materials matter and ideas must be executable, not just theoretical.
 
