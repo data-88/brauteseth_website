@@ -47,6 +47,10 @@ seo:
   <iframe src="https://www.youtube.com/embed/r6RywdeEjNM?si=eh2Xep8dGkw2grRH" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
+<div class="responsive-iframe-container" style="padding-bottom: 120%;"> <!-- YouTube Shorts tend to be more vertical -->
+  <iframe src="https://www.youtube.com/embed/26EGO10y0uI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 <div class="responsive-iframe-container" style="padding-bottom: 120%;"> <!-- Instagram Reels tend to be more vertical -->
   <iframe src="https://www.instagram.com/reel/C0g998-KiFl/embed" scrolling="no" allowtransparency="true" allowfullscreen></iframe>
 </div>
