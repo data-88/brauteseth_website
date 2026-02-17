@@ -104,3 +104,7 @@ seo:
 <div class="fullwidth-video-container">
   <iframe src="https://www.youtube.com/embed/LQzG0tnut90" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+<div class="fullwidth-video-container">
+  <iframe src="https://www.youtube.com/embed/NmRHT7levSU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
