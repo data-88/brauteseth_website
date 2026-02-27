@@ -2,13 +2,11 @@
 title: 'Windhoek'
 description: Pure Beer Society
 publishDate: 'Feb 2 2012'
+mainImage: '/windhoek1.jpg'
+mainImageAlt: 'Windhoek beer'
 tags:
   - Beer
   - advertising
-seo:
-  image:
-    src: '/windhoek1.jpg'
-    alt: Windhoek beer
 ---
 
 

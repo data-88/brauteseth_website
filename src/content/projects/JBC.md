@@ -2,9 +2,7 @@
 title: JBC
 description: Belgian fashion brand
 publishDate: 'Oct 4 2013'
-seo:
-  image:
-    src: '/jbc1.jpg'
+mainImage: '/jbc1.jpg'
 ---
 
 ![JBC Fashion](/jbc1.jpg)

@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Brauteseth',
-    subtitle: 'Photography & Systems',
-    description: 'Cretivity is is an act of rebellion',
+    subtitle: 'Photography & Videography',
+    description: 'Photographer and Storyteller',
     image: {
         src: '/AndrewBWjacket.jpg',
         alt: 'Andrew Brauteseth in a jacket in Linden, Johannesburg'
@@ -108,8 +108,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Ventures in photography, video, concepts and code.',
-        text: "Original thoughts pls.",
+        title: 'Ventures in photography and film',
+        text: "Man on an adventure",
         image: {
             src: '/andrew-plane.jpg',
             alt: 'Andrew Brauteseth in Linden'
@@ -118,12 +118,12 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Field Notes',
-        text: 'One update per week. All the thoughts directly in your inbox.',
+        title: 'Subscribe to My Newsletter',
+        text: 'One or two updates a year.',
         formUrl: 'https://formspree.io/f/mwpqovjl'
     },
     postsPerPage: 8,
-    projectsPerPage: 8
+    projectsPerPage: 16
 };
 
 export default siteConfig;

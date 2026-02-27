@@ -3,9 +3,7 @@ title: 'Guy With Camera Book'
 description: Cape Town life, photography insights and media snacks
 publishDate: 'Oct 12 2015'
 isFeatured: true
-seo:
-  image:
-    src: '/Ride-to-Stanford.jpg'
+mainImage: '/Ride-to-Stanford.jpg'
 ---
 
 

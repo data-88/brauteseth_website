@@ -3,10 +3,8 @@ title: 'Blue Collar White Collar'
 description: Fashion with Paul van der Spuy
 publishDate: 'Jan 02 2012'
 isFeatured: true
-seo:
-  image:
-    src: '/bcwc1.jpg'
-    alt: Fashion shot
+mainImage: '/bcwc1.jpg'
+mainImageAlt: 'Fashion shot'
 ---
 
 ![BlueCollarWhiteCollar](/bcwc1.jpg)

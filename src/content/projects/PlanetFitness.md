@@ -3,9 +3,7 @@ title: 'Planet Fitness'
 description: Working with the lifestyle brand
 publishDate: 'Feb 12 2025'
 isFeatured: true
-seo:
-  image:
-    src: '/gemma.jpg'
+mainImage: '/gemma.jpg'
 ---
 
 ## Objectives

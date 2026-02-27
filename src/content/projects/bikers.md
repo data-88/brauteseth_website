@@ -2,15 +2,13 @@
 title: 'Bikers'
 description: How we roll
 publishDate: 'Jan 2 2012'
+mainImage: '/bikers1.jpg'
+mainImageAlt: 'Bikers'
 tags:
   - writing
   - creative writing
   - culture
   - bikers
-seo:
-  image:
-    src: '/bikers1.jpg'
-    alt: Bikers
 ---
 
 For a while I was really into onroad bikes and cafe racers. Here is a short film with one of my favourite rides out of Cape Town onto the Van der Stel pass outside botriver. 

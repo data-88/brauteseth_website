@@ -2,9 +2,7 @@
 title: Film and Video
 description: Moving with stills
 publishDate: 'Jan 2 2024'
-seo:
-  image:
-    src: 'project-7.jpg'
+mainImage: '/scullers-indial-fashion-campaign.jpg'
 ---
 <style>
   .fullwidth-video-container {

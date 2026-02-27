@@ -3,14 +3,12 @@ title: Blok Living
 description: Lifestyle Property Brand
 publishDate: 'Jan 2 2012'
 isFeatured: true
+mainImage: '/BLOK13.jpg'
+mainImageAlt: 'Woman at Seapoint Promenade'
 tags:
   - Real Estate
   - Property
   - Lifestyle
-seo:
-  image:
-    src: '/BLOK13.jpg'
-    alt: Woman at Seapoint Promenade
 ---
 
 Blok Living offers modern, stylish urban homes in Cape Town designed for young professionals and creatives. Their focus is on vibrant, well-designed spaces that blend comfort, community, and culture.

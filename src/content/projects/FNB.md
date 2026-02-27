@@ -2,9 +2,7 @@
 title: 'First National Bank'
 description: In the Midlands mostly
 publishDate: 'Oct 12 2014'
-seo:
-  image:
-    src: '/fnb4.jpg'
+mainImage: '/fnb4.jpg'
 ---
 We're flying around the Natal Midlands on the back of a British racing green Husqvarna buggy. The art director waves directions while my shot list flies in one hand with my 5DMKIII in the other. The two-toned farmer shouts over the khaki veld, “Bring in the Nguni’s!” Stylist Crystal Birsch, part-time Dramata Pro Arte, makes it her mission to keep us entertained. The client, Pia, just called me by my invoice line item, “zero-zero-five!”. Kate is production manager and proud Midlands native. Her attempt to draw out the fever tree thorn (which pushed through my white Converse) ends with a safety pin so deep in my heel that remembering even makes me wince. At night I dream that the FNB CEO was complaining about my Instagrams. Our PM dreamt that I sent her to Builders Warehouse for something for my kitchen. Pia dreamt that the PM was a raving Pokémon.  
 

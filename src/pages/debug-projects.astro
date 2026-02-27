@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+
+const projects = await getCollection('projects');
+const dump = projects.map((p) => ({ slug: p.slug, data: p.data }));
+---
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Debug Projects</title>
+    </head>
+    <body style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding:24px;">
+        <h1>Debug: projects collection</h1>
+        <p>Shows `slug` and `data` for each project entry (server-side).</p>
+        <pre style="white-space:pre-wrap; background:#f7f7f8; padding:12px; border-radius:6px;">
+{JSON.stringify(dump, null, 2)}
+    </pre>
+    </body>
+</html>

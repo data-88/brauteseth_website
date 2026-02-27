@@ -2,15 +2,13 @@
 title: 'The Rose'
 description: Very romantic
 publishDate: 'Sep 2 2012'
+mainImage: '/rose.jpg'
+mainImageAlt: 'The Rose'
 tags:
   - video
   - romantic
   - french
   - movie
-seo:
-  image:
-    src: '/rose.jpg'
-    alt: The Rose
 ---
 
 

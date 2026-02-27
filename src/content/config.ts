@@ -37,6 +37,8 @@ const projects = defineCollection({
         description: z.string().optional(),
         publishDate: z.coerce.date(),
         isFeatured: z.boolean().default(false),
+        mainImage: z.string().optional(),
+        mainImageAlt: z.string().optional(),
         seo: seoSchema.optional()
     })
 });

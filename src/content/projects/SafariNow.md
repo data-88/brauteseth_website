@@ -2,10 +2,8 @@
 title: 'Safari Now'
 description: The AirBnB of South Africa
 publishDate: 'Jan 04 2016'
-seo:
-  image:
-    src: '/safarinow01.jpg'
-    alt: Preview of Safarinow Campaign
+mainImage: '/safarinow01.jpg'
+mainImageAlt: 'Preview of Safarinow Campaign'
 ---
 
 ![SafariNow campaign](/safarinow01.jpg)

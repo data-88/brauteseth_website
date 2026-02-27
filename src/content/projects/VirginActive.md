@@ -2,15 +2,13 @@
 title: 'Virgin Active'
 description: 'great collaborations happened'
 publishDate: 'Jan 2 2012'
+mainImage: '/Virgin_Active_Lifestyle__MG_0645.jpg'
+mainImageAlt: 'Kids swimming'
 tags:
   - advertising
   - campaigns
   - clients
   - lifestyle
-seo:
-  image:
-    src: '/Virgin_Active_Lifestyle__MG_0645.jpg'
-    alt: Kids swimming
 ---
 
 After a 4 month process of tests, ideas, brainstorming meetings, approvals, costings and pitches, Virgin Active South Africa approved one of the biggest project shoots of my career. The Virgin Active Stories Shoot aimed to answer one essential question, ‘What Moves Me?’ Part documentary, part market research, part advertising, and part investigative photojournalism. We wanted to find and tell the members’ stories through great shots. I remember the Virgin Active Head of Marketing briefing me with: “Andrew we want you to shoot gyms as they’ve never been shot before”.

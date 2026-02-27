@@ -2,10 +2,8 @@
 title: 'America Today'
 description: Dutch Fashion Brand
 publishDate: 'Jan 04 2022'
-seo:
-  image:
-    src: '/AmericaToday.jpg'
-    alt: Project preview
+mainImage: '/AmericaToday.jpg'
+mainImageAlt: 'Project preview'
 ---
 
 ![America Today Fashion](/AmericaToday.jpg)

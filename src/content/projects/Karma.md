@@ -2,9 +2,7 @@
 title: Karma Malas
 description: Jewelry Brand
 publishDate: 'Oct 4 2011'
-seo:
-  image:
-    src: '/jess4.jpg'
+mainImage: '/jess4.jpg'
 ---
 Karma Malas is a Cape Town based jewelry line creating unique malas with beauty, truth and love. Each piece is handcrafted with care, using precious and semi precious materials combined with sterling silver or gold.
 

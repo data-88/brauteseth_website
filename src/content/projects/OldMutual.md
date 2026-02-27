@@ -2,9 +2,8 @@
 title: 'Old Mutual'
 description: Working with the insurance brand
 publishDate: 'Feb 12 2013'
-seo:
-  image:
-    src: '/gemma.jpg'
+mainImage: '/OldMutual2.jpg'
+mainImageAlt: 'Old Mutual Connecta Campaign'
 ---
 
 Cape Town-based advertising agency **Radar** has recently joined forces with the global Publicis-owned **Leo Burnett**, marking a strategic move to boost their profile and presence both locally and internationally. Radar has built a strong reputation for delivering creative and impactful campaigns, serving a diverse range of clients from their base at 21 Rose Street, Cape Town.

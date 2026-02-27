@@ -2,14 +2,12 @@
 title: Cape Town Tourism
 description: Life in Cape Town
 publishDate: 'Jan 2 2012'
+mainImage: '/cttourism4.jpg'
+mainImageAlt: 'Cape Town Tourism'
 tags:
   - lifestyle
   - advertising
   - Cape Town
-seo:
-  image:
-    src: '/cttourism4.jpg'
-    alt: Cape Town Tourism
 ---
 ![Cape Town Tourism](/cttourism4.jpg)
 ![Cape Town Tourism](/cttourism5.jpg)

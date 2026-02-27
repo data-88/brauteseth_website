@@ -2,14 +2,12 @@
 title: Cointreau
 description: With Herd Africa
 publishDate: 'Jan 4 2012'
+mainImage: '/cointeau01.jpg'
+mainImageAlt: 'Cointreau Campaign Image'
 tags:
   - photography
   - cdvertising
   - alcohol
-seo:
-  image:
-    src: '/cointeau01.jpg'
-    alt: Cointreau Campaign Image
 ---
 
 ![Cointreau Advertising 2](/cointreau2.jpg)

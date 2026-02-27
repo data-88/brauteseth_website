@@ -2,14 +2,12 @@
 title: 'V&A Waterfront'
 description: Icon of Cape Town
 publishDate: 'Jan 2 2012'
+mainImage: '/waterfront1.jpg'
+mainImageAlt: 'Waterfront'
 tags:
   - advertising
   - lifestyle
   - cape town
-seo:
-  image:
-    src: '/waterfront1.jpg'
-    alt: Waterfront
 ---
 
 

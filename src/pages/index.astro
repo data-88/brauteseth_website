@@ -12,16 +12,16 @@ const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 const featuredPosts = posts.filter(({ data }) => data.isFeatured);
 
 const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
-const featuredProjects = projects.filter(({ data }) => data.isFeatured);
+const homepageProjects = projects.slice(0, 15);
 ---
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>
     <Hero />
     {
-        featuredProjects?.length > 0 && (
+        homepageProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">
                 <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Projects</h2>
-                {featuredProjects.map((project) => (
+                {homepageProjects.map((project) => (
                     <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
                 ))}
                 <div class="mt-12 sm:mt-16">

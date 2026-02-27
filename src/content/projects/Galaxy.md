@@ -2,15 +2,13 @@
 title: 'Galaxy'
 description: Jerwelry Campaign
 publishDate: 'Jan 2 2012'
+mainImage: '/post-2.jpg'
+mainImageAlt: 'Half open laptop on a deska'
 tags:
   - advertising
   - agencywork
   - agency
   - video
-seo:
-  image:
-    src: '/post-2.jpg'
-    alt: Half open laptop on a deska
 ---
 
 This was my first TV ad which I directed & shot for Galaxy & Co with King James.

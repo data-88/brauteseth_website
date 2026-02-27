@@ -2,14 +2,12 @@
 title: 'Unlimited'
 description: Fashion from India
 publishDate: 'Jan 2 2014'
+mainImage: '/unlimited-waterfront.jpeg'
+mainImageAlt: 'Unlimited'
 tags:
   - fashion
   - india
   - cape town
-seo:
-  image:
-    src: '/unlimited-waterfront.jpg'
-    alt: Unlimited
 ---
 
 ## Fashion Collection

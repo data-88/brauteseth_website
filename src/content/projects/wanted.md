@@ -2,13 +2,11 @@
 title: 'Wanted'
 description: Behind the scenes for the magazine editorial
 publishDate: 'Feb 2 2010'
+mainImage: '/post-2.jpg'
+mainImageAlt: 'Wanted Magazine'
 tags:
   - Fashion
   - cape town
-seo:
-  image:
-    src: '/post-2.jpg'
-    alt: Wanted Magazine
 ---
 Wanted magazine is Business Day’s lifestyle supplement. It’s a hugely successful local luxury market magazine modeled in some ways after the London based Financial Times’ ‘How to Spend it’. It’s filled with insightful, witty, premium lifestyle journalism.
 

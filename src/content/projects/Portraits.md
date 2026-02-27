@@ -3,14 +3,12 @@ title: 'Portraits'
 description: I love shooting people
 publishDate: 'Jan 2 2018'
 isFeatured: true
+mainImage: '/timharris.jpg'
+mainImageAlt: 'Tim Harris Wesgro CEO'
 tags:
   - photography
   - Portraits
   - people
-seo:
-  image:
-    src: '/timharris.jpg'
-    alt: Tim Harris Wesgro CEO
 ---
 
 ![Paul van der Spuy](/paulvanderspuy.jpg)

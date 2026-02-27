@@ -2,9 +2,8 @@
 title: 'Huggies'
 description: With the influencers
 publishDate: 'Oct 12 2015'
-seo:
-  image:
-    src: '/huggies1s.jpg'
+mainImage: '/huggies1.jpg'
+mainImageAlt: 'Huggies Influencer Campaign'
 ---
 
 ![Huggies Influence](/huggies1.jpg)
