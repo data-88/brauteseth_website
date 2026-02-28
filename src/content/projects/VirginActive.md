@@ -26,6 +26,8 @@ Some images from the campaign are in a gallery here and the campaign is currentl
 ![Virgin Active Lifestyle 6](/Virgin_Active_Lifestyle_IMG_7359.jpg)
 <img src="/IMG_2674.jpg" alt="Virgin Active Lifestyle 7" style="width: 100%; height: auto;" />
 
+![Virgin Active Funk Off](/virgin-active-funk-off.jpg)
+
 
 The very talented marketing team at Virgin Active are:
 **Head of Marketing:** [Richard Lamb-Hughes](https://www.linkedin.com/in/rlhishere/?originalSubdomain=za)
