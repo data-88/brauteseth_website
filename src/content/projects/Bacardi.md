@@ -2,7 +2,7 @@
 title: 'Bacardi'
 publishDate: Jan 02 2011
 description: "A project overview for Bacardi."
-mainImage: '/project-3.jpg'
+mainImage: '/bacardi.jpg'
 mainImageAlt: 'Bacardi Campaign'
 tags:
   - advetising

@@ -2,8 +2,8 @@
 title: 'Wanted'
 description: Behind the scenes for the magazine editorial
 publishDate: 'Feb 2 2010'
-mainImage: '/post-2.jpg'
-mainImageAlt: 'Wanted Magazine'
+mainImage: '/wanted_header.jpg'
+mainImageAlt: 'Wanted header'
 tags:
   - Fashion
   - cape town
